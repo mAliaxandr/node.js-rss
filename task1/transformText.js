@@ -1,4 +1,6 @@
-const transformText = (textData, shiftNum) => {
+const writeToFile = require('./writeToFile');
+
+const transformText = (textData, shiftNum, output) => {
   const alphabet = 'abcdefghijklmnopqrstuvwxyz';
   const firstText = textData.split('');
   const transformedText = [];
@@ -25,7 +27,7 @@ const transformText = (textData, shiftNum) => {
     );
   });
   console.log('transform--', textData, firstText, transformedText.join(''));
-  // writeToFile(output, transformedText.join(''));
+  writeToFile(output, transformedText.join(''));
 };
 
 module.exports = transformText;
