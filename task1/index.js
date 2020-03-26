@@ -7,35 +7,8 @@ const program = new Command();
 let shiftNum = null;
 let actionType = null;
 let textData = null;
-
-const actionFunc = x => {
-  actionType = `${x}`;
-  console.log(`action: ${x}`);
-};
-
-const readFromFile = fileName => {
-  fs.readFile(path.join(__dirname, fileName), (err, data) => {
-    if (err) throw err;
-    textData = data;
-    console.log('read--', data);
-  });
-};
-
-const writeToFile = (fileName, data) => {
-  setTimeout(() => {
-    const text =
-      data ||
-      `data : shift = ${shiftNum}, action = ${actionType}, text = ${textData}`;
-    console.log('write -- ', text);
-    fs.writeFile(path.join(__dirname, fileName), `${text}`, err => {
-      if (err) {
-        console.log('error: ', err);
-        return null;
-      }
-      return text;
-    });
-  }, 1000);
-};
+let input = null;
+let output = null;
 
 program
   .option('-s, --shift <shiftType>', 'shift')
@@ -45,7 +18,72 @@ program
 
 program.parse(process.argv);
 
-if (program.action) actionFunc(program.action);
+if (program.action) actionType = `${program.action}`;
 if (program.shift) shiftNum = `${program.shift}`;
-if (program.input) readFromFile(`${program.input}`);
-if (program.output) writeToFile(`${program.output}`);
+if (program.input) input = `${program.input}`;
+if (program.output) output = `${program.output}`;
+
+const writeToFile = (fileName, data) => {
+  console.log('write -- ');
+  const text =
+    data ||
+    `data : shift = ${shiftNum}, action = ${actionType}, text = ${textData}`;
+  fs.writeFile(path.join(__dirname, fileName), `${text}`, err => {
+    if (err) {
+      console.log('error: ', err);
+      return null;
+    }
+    return text;
+  });
+};
+
+const transformText = () => {
+  const alphabet = 'abcdefghijklmnopqrstuvwxyz';
+  const firstText = textData.split('');
+  const transformedText = [];
+
+  firstText.map(item => {
+    const itemIndex = alphabet.indexOf(item.toLowerCase());
+    const alphabetLehgth = alphabet.length;
+    let itemShiftIndex;
+    if (itemIndex < 0) {
+      transformedText.push(item);
+    } else {
+      itemShiftIndex = +itemIndex + +shiftNum;
+      if (itemShiftIndex > alphabetLehgth - 1) {
+        itemShiftIndex = itemShiftIndex - alphabetLehgth;
+      }
+      transformedText.push(alphabet[itemShiftIndex]);
+    }
+    console.log(
+      'transf -- ',
+      itemIndex,
+      item,
+      itemShiftIndex,
+      alphabet[itemShiftIndex]
+    );
+  });
+
+  console.log('transform--', textData, firstText, transformedText.join(''));
+  writeToFile(output, transformedText.join(''));
+};
+
+const readFromFile = fileName => {
+  fs.readFile(path.join(__dirname, fileName), 'utf8', (err, data) => {
+    if (err) throw err;
+    textData = data;
+    console.log('read--', data);
+    // writeToFile(output, textData);
+    transformText();
+  });
+};
+
+if (input) {
+  readFromFile(input);
+}
+
+// if (textData) {
+//   writeToFile(output, textData);
+// } else {
+//   setTimeout(() => writeToFile(output, textData), 1000);
+// }
