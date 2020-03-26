@@ -4,19 +4,37 @@ const path = require('path');
 
 const program = new Command();
 
-console.log('node run');
+let shiftNum = null;
+let actionType = null;
+let textData = null;
 
-const actionFunc = x => console.log(`action: ${x}`);
+const actionFunc = x => {
+  actionType = `${x}`;
+  console.log(`action: ${x}`);
+};
+
+const readFromFile = fileName => {
+  fs.readFile(path.join(__dirname, fileName), (err, data) => {
+    if (err) throw err;
+    textData = data;
+    console.log('read--', data);
+  });
+};
 
 const writeToFile = (fileName, data) => {
-  const text = data || 'text ttttt2';
-  fs.writeFile(path.join(__dirname, fileName), `${text}`, err => {
-    if (err) {
-      console.log('error: ', err);
-      return null;
-    }
-    return text;
-  });
+  setTimeout(() => {
+    const text =
+      data ||
+      `data : shift = ${shiftNum}, action = ${actionType}, text = ${textData}`;
+    console.log('write -- ', text);
+    fs.writeFile(path.join(__dirname, fileName), `${text}`, err => {
+      if (err) {
+        console.log('error: ', err);
+        return null;
+      }
+      return text;
+    });
+  }, 1000);
 };
 
 program
@@ -28,5 +46,6 @@ program
 program.parse(process.argv);
 
 if (program.action) actionFunc(program.action);
-if (program.shift) console.log(program.shift);
+if (program.shift) shiftNum = `${program.shift}`;
+if (program.input) readFromFile(`${program.input}`);
 if (program.output) writeToFile(`${program.output}`);
