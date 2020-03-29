@@ -9,6 +9,11 @@ const transformText = (textData, shiftNum, output) => {
     const itemIndex = alphabet.indexOf(item.toLowerCase());
     const alphabetLehgth = alphabet.length;
     let itemShiftIndex;
+    let isUpperCase = false;
+    if (item.toUpperCase() === item) {
+      isUpperCase = true;
+    }
+    console.log('Case --', item.toUpperCase() === item);
     if (itemIndex < 0) {
       transformedText.push(item);
     } else {
@@ -16,7 +21,11 @@ const transformText = (textData, shiftNum, output) => {
       if (itemShiftIndex > alphabetLehgth - 1) {
         itemShiftIndex = itemShiftIndex - alphabetLehgth;
       }
-      transformedText.push(alphabet[itemShiftIndex]);
+      if (isUpperCase) {
+        transformedText.push(alphabet[itemShiftIndex].toUpperCase());
+      } else {
+        transformedText.push(alphabet[itemShiftIndex]);
+      }
     }
     console.log(
       'transf -- ',
