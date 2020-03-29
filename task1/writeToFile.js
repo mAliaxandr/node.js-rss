@@ -3,13 +3,23 @@ const path = require('path');
 
 const writeToFile = (fileName, data) => {
   console.log('write -- ');
-  const text = data || 'defaul text';
-  fs.writeFile(path.join(__dirname, fileName), `${text}`, err => {
-    if (err) {
-      console.log('error: ', err);
-      return null;
+  fs.readFile(path.join(__dirname, fileName), 'utf8', (err, text) => {
+    if (err) throw err;
+    if (text) {
+      fs.writeFile(path.join(__dirname, fileName), `${text}\n${data}`, err2 => {
+        if (err2) {
+          console.log('error: ', err2);
+          return null;
+        }
+      });
+    } else {
+      fs.writeFile(path.join(__dirname, fileName), `${data}`, err2 => {
+        if (err2) {
+          console.log('error: ', err2);
+          return null;
+        }
+      });
     }
-    return text;
   });
 };
 
