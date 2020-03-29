@@ -2,9 +2,10 @@ const fs = require('fs');
 const path = require('path');
 
 const writeToFile = (fileName, data) => {
-  console.log('write -- ');
   fs.readFile(path.join(__dirname, fileName), 'utf8', (err, text) => {
-    if (err) throw err;
+    if (err) {
+      throw err;
+    }
     if (text) {
       fs.writeFile(path.join(__dirname, fileName), `${text}\n${data}`, err2 => {
         if (err2) {
