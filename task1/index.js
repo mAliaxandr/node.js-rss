@@ -5,7 +5,7 @@ const transformText = require('./transformText');
 const program = new Command();
 
 let shiftNum = null;
-// let actionType = null;
+let actionType = null;
 let textData = null;
 let input = null;
 let output = null;
@@ -18,7 +18,7 @@ program
 
 program.parse(process.argv);
 
-// if (program.action) actionType = `${program.action}`;
+if (program.action) actionType = `${program.action}`;
 if (program.shift) shiftNum = `${program.shift}`;
 if (program.input) input = `${program.input}`;
 if (program.output) output = `${program.output}`;
@@ -28,7 +28,7 @@ const readFromFile = fileName => {
     if (err) throw err;
     textData = data;
     console.log('read--', data);
-    transformText(textData, shiftNum, output);
+    transformText(textData, shiftNum, output, actionType);
   });
 };
 
