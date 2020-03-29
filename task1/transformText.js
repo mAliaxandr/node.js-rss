@@ -32,7 +32,6 @@ const transformText = (textData, shiftNum, output, actionType) => {
     if (item.toUpperCase() === item) {
       isUpperCase = true;
     }
-    console.log('Case --', item.toUpperCase() === item);
     if (itemIndex < 0) {
       transformedText.push(item);
     } else if (isUpperCase) {
@@ -40,16 +39,7 @@ const transformText = (textData, shiftNum, output, actionType) => {
     } else {
       transformedText.push(alphabet[itemShiftIndex]);
     }
-    console.log(
-      'transf -- ',
-      itemIndex,
-      item,
-      itemShiftIndex,
-      alphabet[itemShiftIndex],
-      actionType
-    );
   });
-  console.log('transform--', textData, firstText, transformedText.join(''));
   writeToFile(output, transformedText.join(''));
 };
 
