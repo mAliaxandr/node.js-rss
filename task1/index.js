@@ -1,10 +1,14 @@
 const { Command } = require('commander');
 const program = new Command();
-const readFromFile = require('./readFromFile');
+// const validate = require('./validate');
+// const readFromFile = require('./readFromFile');
 
-let shiftNum = null;
-let actionType = null;
-let output = null;
+const options = {
+  shiftNum: null,
+  actionType: null,
+  output: null,
+  input: null
+};
 
 program
   .option('-s, --shift <shiftType>', 'shift')
@@ -14,9 +18,9 @@ program
 
 program.parse(process.argv);
 
-if (program.action) actionType = `${program.action}`;
-if (program.shift) shiftNum = `${program.shift}`;
-if (program.output) output = `${program.output}`;
-if (program.input) {
-  readFromFile(`${program.input}`, shiftNum, output, actionType);
-}
+if (program.action) options.actionType = `${program.action}`;
+if (program.shift) options.shiftNum = `${program.shift}`;
+if (program.output) options.output = `${program.output}`;
+if (program.input) options.input = `${program.input}`;
+
+// validate(options);
