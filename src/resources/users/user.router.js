@@ -26,4 +26,15 @@ router.route('/').post(async (req, res) => {
   res.json(User.toResponse(newUser));
 });
 
+router.route('/:id').put(async (req, res) => {
+  console.log('----PUT----users/id--');
+  const id = req.params.id;
+  const user = await usersService.getById(id);
+  user.name = req.body.name;
+  user.login = req.body.login;
+  user.password = req.body.password;
+  const updatedUser = await usersService.updatedUser(user);
+  res.json(updatedUser);
+});
+
 module.exports = router;
