@@ -10,7 +10,12 @@ router.route('/:id/tasks').get(async (req, res) => {
 
 router.route('/:boardId/tasks/:taskId').get(async (req, res) => {
   const task = await tasksService.getById(req.params.taskId);
-  res.json(task);
+  if (task) {
+    res.json(task);
+  } else {
+    res.status(404).json({ message: 'Not Found' });
+  }
+
   console.log('------------------TASK--GET-byId-', req.params);
 });
 
@@ -41,6 +46,12 @@ router.route('/:boardId/tasks/:taskId').put(async (req, res) => {
   tasksService.updateTask(task);
   res.json(task);
   console.log('------------------task---put--', task);
+});
+
+router.route('/:boardId/tasks/:taskId').delete(async (req, res) => {
+  await tasksService.deleteTask(req.params.taskId);
+  res.json({ message: 'task  was deleted' });
+  console.log('------------------task---DELETE--');
 });
 
 module.exports = router;

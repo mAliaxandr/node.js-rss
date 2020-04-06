@@ -42,8 +42,8 @@ const getAllByBoardId = async boardId => {
   return selectedTasks;
 };
 
-const getById = async id => {
-  let task;
+const getById = id => {
+  let task = null;
   tasks.map(item => {
     if (item.id === id) {
       task = item;
@@ -72,4 +72,23 @@ const updateTask = async task => {
   return updatedTask;
 };
 
-module.exports = { getAll, getAllByBoardId, getById, createTask, updateTask };
+const deleteTask = async id => {
+  let deletedTask;
+  tasks.map((item, index) => {
+    if (item.id === id) {
+      deletedTask = item;
+      tasks.splice(index, 1);
+      return;
+    }
+  });
+  return deletedTask;
+};
+
+module.exports = {
+  getAll,
+  getAllByBoardId,
+  getById,
+  createTask,
+  updateTask,
+  deleteTask
+};
