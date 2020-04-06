@@ -52,4 +52,8 @@ const getById = async id => {
   return task;
 };
 
-module.exports = { getAll, getAllByBoardId, getById };
+const createTask = async task => {
+  tasks.push(task);
+};
+
+module.exports = { getAll, getAllByBoardId, getById, createTask };

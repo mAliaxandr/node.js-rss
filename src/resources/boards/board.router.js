@@ -17,7 +17,7 @@ router.route('/:id').get(async (req, res) => {
     res.status(404);
   }
 
-  console.log('----get----BOARD/id--', id, req.method, res.status());
+  console.log('----get----BOARD/id--');
 });
 
 router.route('/').post(async (req, res) => {
