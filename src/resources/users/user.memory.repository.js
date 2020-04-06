@@ -38,4 +38,16 @@ const updateUser = async user => {
   return updatedUser;
 };
 
-module.exports = { getAll, getById, createUser, updateUser };
+const deleteUser = async user => {
+  let deletedUser;
+  users.map((item, index) => {
+    if (item.id === user.id) {
+      deletedUser = item;
+      users.splice(index, 1);
+      return;
+    }
+  });
+  return deletedUser;
+};
+
+module.exports = { getAll, getById, createUser, updateUser, deleteUser };
