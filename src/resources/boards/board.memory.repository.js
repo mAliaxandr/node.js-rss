@@ -9,4 +9,15 @@ const getAll = async () => {
   return boards;
 };
 
-module.exports = { getAll };
+const getById = async id => {
+  let board;
+  boards.map(item => {
+    if (item.id === id) {
+      console.log('id', item.id, id);
+      board = item;
+    }
+  });
+  return board;
+};
+
+module.exports = { getAll, getById };

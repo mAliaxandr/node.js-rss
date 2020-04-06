@@ -8,4 +8,11 @@ router.route('/').get(async (req, res) => {
   console.log('--BOARDS--GET--ALL----');
 });
 
+router.route('/:id').get(async (req, res) => {
+  const { id } = req.params;
+  const board = await boardsService.getById(id);
+  res.json(board);
+  console.log('----get----BOARD/id--', id, req.method);
+});
+
 module.exports = router;
