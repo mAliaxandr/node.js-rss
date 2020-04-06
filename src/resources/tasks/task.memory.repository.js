@@ -4,7 +4,7 @@ const tasks = [
     title: 'task 1',
     order: '11',
     description: 'lorem ipsum 111',
-    userId: null,
+    userId: '2',
     boardId: '2',
     columnId: null
   },
@@ -84,11 +84,20 @@ const deleteTask = async id => {
   return deletedTask;
 };
 
+const deleteUserFromTasks = userId => {
+  tasks.map(item => {
+    if (item.userId === userId) {
+      item.userId = null;
+    }
+  });
+};
+
 module.exports = {
   getAll,
   getAllByBoardId,
   getById,
   createTask,
   updateTask,
-  deleteTask
+  deleteTask,
+  deleteUserFromTasks
 };

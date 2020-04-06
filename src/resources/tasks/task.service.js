@@ -6,6 +6,7 @@ const getById = id => tasksRepo.getById(id);
 const createTask = task => tasksRepo.createTask(task);
 const updateTask = task => tasksRepo.updateTask(task);
 const deleteTask = id => tasksRepo.deleteTask(id);
+const deleteUserFromTasks = userId => tasksRepo.deleteUserFromTasks(userId);
 
 module.exports = {
   getAll,
@@ -13,5 +14,6 @@ module.exports = {
   getById,
   createTask,
   updateTask,
-  deleteTask
+  deleteTask,
+  deleteUserFromTasks
 };

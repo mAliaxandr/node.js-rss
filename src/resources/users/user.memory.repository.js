@@ -1,3 +1,5 @@
+const tasksService = require('../tasks/task.service');
+
 const users = [
   { id: '1', name: 'Alex', login: 'Alex11', password: 'aall' },
   { id: '2', name: 'Nick', login: 'Nick22', password: 'nik123' }
@@ -5,7 +7,7 @@ const users = [
 
 const getAll = async () => {
   // TODO: mock implementation. should be replaced during task development
-  // console.log('getAll');
+  // console.log('getAll users');
   return users;
 };
 
@@ -43,6 +45,7 @@ const deleteUser = async id => {
   users.map((item, index) => {
     if (item.id === id) {
       deletedUser = item;
+      tasksService.deleteUserFromTasks(id);
       users.splice(index, 1);
       return;
     }
