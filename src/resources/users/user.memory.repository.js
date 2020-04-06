@@ -25,14 +25,17 @@ const createUser = async user => {
   users.push(user);
 };
 
-const updatedUser = async user => {
+const updateUser = async user => {
+  let updatedUser;
   users.map(item => {
     if (item.id === user.id) {
       item.name = user.name;
       item.login = user.login;
+      updatedUser = item;
       return;
     }
   });
+  return updatedUser;
 };
 
-module.exports = { getAll, getById, createUser, updatedUser };
+module.exports = { getAll, getById, createUser, updateUser };

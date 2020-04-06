@@ -27,14 +27,14 @@ router.route('/').post(async (req, res) => {
 });
 
 router.route('/:id').put(async (req, res) => {
-  console.log('----PUT----users/id--');
   const id = req.params.id;
   const user = await usersService.getById(id);
   user.name = req.body.name;
   user.login = req.body.login;
   user.password = req.body.password;
-  const updatedUser = await usersService.updatedUser(user);
+  const updatedUser = await usersService.updateUser(user);
   res.json(updatedUser);
+  console.log('----PUT----users/id--', updatedUser);
 });
 
 module.exports = router;
