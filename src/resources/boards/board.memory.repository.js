@@ -20,4 +20,8 @@ const getById = async id => {
   return board;
 };
 
-module.exports = { getAll, getById };
+const createBoard = async board => {
+  boards.push(board);
+};
+
+module.exports = { getAll, getById, createBoard };
