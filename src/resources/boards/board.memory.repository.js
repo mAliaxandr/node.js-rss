@@ -24,4 +24,17 @@ const createBoard = async board => {
   boards.push(board);
 };
 
-module.exports = { getAll, getById, createBoard };
+const updateBoard = async board => {
+  let updatedBoard;
+  boards.map(item => {
+    if (item.id === board.id) {
+      item.title = board.title || item.title;
+      item.columns = board.columns || item.columns;
+      updatedBoard = item;
+      return;
+    }
+  });
+  return updatedBoard;
+};
+
+module.exports = { getAll, getById, createBoard, updateBoard };
