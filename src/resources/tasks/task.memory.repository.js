@@ -56,4 +56,20 @@ const createTask = async task => {
   tasks.push(task);
 };
 
-module.exports = { getAll, getAllByBoardId, getById, createTask };
+const updateTask = async task => {
+  let updatedTask;
+  tasks.map(item => {
+    if (item.id === task.id) {
+      item.title = task.title || item.title;
+      item.order = task.order || item.order;
+      item.description = tasks.description || item.description;
+      item.userId = task.userId || item.userId;
+      item.boardId = task.boardId || item.boardId;
+      item.columnId = task.columnId || item.columnId;
+      updatedTask = item;
+    }
+  });
+  return updatedTask;
+};
+
+module.exports = { getAll, getAllByBoardId, getById, createTask, updateTask };
