@@ -29,8 +29,8 @@ const updateUser = async user => {
   let updatedUser;
   users.map(item => {
     if (item.id === user.id) {
-      item.name = user.name;
-      item.login = user.login;
+      item.name = user.name || item.name;
+      item.login = user.login || item.login;
       updatedUser = item;
       return;
     }
@@ -38,10 +38,10 @@ const updateUser = async user => {
   return updatedUser;
 };
 
-const deleteUser = async user => {
+const deleteUser = async id => {
   let deletedUser;
   users.map((item, index) => {
-    if (item.id === user.id) {
+    if (item.id === id) {
       deletedUser = item;
       users.splice(index, 1);
       return;

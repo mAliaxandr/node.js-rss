@@ -27,20 +27,27 @@ router.route('/').post(async (req, res) => {
 });
 
 router.route('/:id').put(async (req, res) => {
-  const id = req.params.id;
-  const user = await usersService.getById(id);
-  user.name = req.body.name;
-  user.login = req.body.login;
-  user.password = req.body.password;
+  // const id = req.params.id;
+  // const user = await usersService.getById(id);
+  const user = {
+    id: req.params.id,
+    name: req.body.name,
+    login: req.body.login,
+    password: req.body.password
+  };
+  // user.name = req.body.name;
+  // user.login = req.body.login;
+  // user.password = req.body.password;
   const updatedUser = await usersService.updateUser(user);
-  res.json(updatedUser);
+  res.json(User.toResponse(updatedUser));
   console.log('----PUT----users/id--', updatedUser);
 });
 
 router.route('/:id').delete(async (req, res) => {
   const id = req.params.id;
-  const user = await usersService.getById(id);
-  const deletedUser = await usersService.deleteUser(user);
+  // const user = await usersService.getById(id);
+
+  const deletedUser = await usersService.deleteUser(id);
   res.json(User.toResponse(deletedUser));
   console.log('---DELETE----users/id--', deletedUser);
 });
