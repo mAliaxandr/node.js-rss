@@ -11,8 +11,13 @@ router.route('/').get(async (req, res) => {
 router.route('/:id').get(async (req, res) => {
   const { id } = req.params;
   const board = await boardsService.getById(id);
-  res.json(board);
-  console.log('----get----BOARD/id--', id, req.method);
+  if (board) {
+    res.json(board);
+  } else {
+    res.status(404);
+  }
+
+  console.log('----get----BOARD/id--', id, req.method, res.status());
 });
 
 router.route('/').post(async (req, res) => {
@@ -34,6 +39,12 @@ router.route('/:id').put(async (req, res) => {
   await boardsService.updateBoard(board);
   res.json(board);
   console.log('----Put----BOARD/update--');
+});
+
+router.route('/:id').delete(async (req, res) => {
+  const deletedBoard = await boardsService.deleteBoard(req.params.id);
+  res.json(deletedBoard);
+  console.log('del -- board---', deletedBoard);
 });
 
 module.exports = router;

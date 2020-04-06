@@ -1,7 +1,20 @@
 const boards = [
   { id: '1', title: 'Board 1', columns: [] },
   { id: '2', title: 'Board 2', columns: [] },
-  { id: '3', title: 'Board 3', columns: [] }
+  {
+    id: '3',
+    title: 'Board 3',
+    columns: [
+      {
+        title: 'Backlog',
+        order: 1
+      },
+      {
+        title: 'Sprint',
+        order: 2
+      }
+    ]
+  }
 ];
 
 const getAll = async () => {
@@ -37,4 +50,16 @@ const updateBoard = async board => {
   return updatedBoard;
 };
 
-module.exports = { getAll, getById, createBoard, updateBoard };
+const deleteBoard = async id => {
+  let deletedBoard;
+  boards.map((item, index) => {
+    if (item.id === id) {
+      deletedBoard = item;
+      boards.splice(index, 1);
+      return;
+    }
+  });
+  return deletedBoard;
+};
+
+module.exports = { getAll, getById, createBoard, updateBoard, deleteBoard };
