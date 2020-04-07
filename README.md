@@ -1,4 +1,4 @@
-# Guide for task:
+# Guide for task2:
 
 1. Fork this repository
 2. Clone
