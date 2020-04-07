@@ -5,7 +5,6 @@ const tasksService = require('./task.service');
 router.route('/:id/tasks').get(async (req, res) => {
   const tasks = await tasksService.getAllByBoardId(req.params.id);
   res.json(tasks);
-  console.log('------------------TASK--GETall-byId-', req.params.id);
 });
 
 router.route('/:boardId/tasks/:taskId').get(async (req, res) => {
@@ -15,8 +14,6 @@ router.route('/:boardId/tasks/:taskId').get(async (req, res) => {
   } else {
     res.status(404).json({ message: 'Not Found' });
   }
-
-  console.log('------------------TASK--GET-byId-', req.params);
 });
 
 router.route('/:id/tasks').post(async (req, res) => {
@@ -30,7 +27,6 @@ router.route('/:id/tasks').post(async (req, res) => {
   });
   tasksService.createTask(newTask);
   res.json(newTask);
-  console.log('------------------TASK--Post--', newTask);
 });
 
 router.route('/:boardId/tasks/:taskId').put(async (req, res) => {
@@ -45,13 +41,11 @@ router.route('/:boardId/tasks/:taskId').put(async (req, res) => {
   };
   tasksService.updateTask(task);
   res.json(task);
-  console.log('------------------task---put--', task);
 });
 
 router.route('/:boardId/tasks/:taskId').delete(async (req, res) => {
   await tasksService.deleteTask(req.params.taskId);
   res.json({ message: 'task  was deleted' });
-  console.log('------------------task---DELETE--');
 });
 
 module.exports = router;

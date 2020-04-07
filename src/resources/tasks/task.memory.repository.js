@@ -1,36 +1,4 @@
-const tasks = [
-  // {
-  //   id: '1',
-  //   title: 'task 1',
-  //   order: '11',
-  //   description: 'lorem ipsum 111',
-  //   userId: '2',
-  //   boardId: '2',
-  //   columnId: null
-  // },
-  // {
-  //   id: '2',
-  //   title: 'task 2',
-  //   order: '22',
-  //   description: 'lorem ipsum 222',
-  //   userId: null,
-  //   boardId: '2',
-  //   columnId: null
-  // },
-  // {
-  //   id: '3',
-  //   title: 'task 3',
-  //   order: '33',
-  //   description: 'lorem ipsum 333',
-  //   userId: null,
-  //   boardId: null,
-  //   columnId: null
-  // }
-];
-
-const getAll = async () => {
-  return tasks;
-};
+const tasks = [];
 
 const getAllByBoardId = async boardId => {
   const selectedTasks = [];
@@ -93,7 +61,6 @@ const deleteUserFromTasks = userId => {
 };
 
 const deleteTaskWithBoard = boardId => {
-  // console.log('-----task----before--del---', tasks);
   const idTasksForDel = [];
   tasks.map(item => {
     if (item.boardId === boardId) {
@@ -101,11 +68,9 @@ const deleteTaskWithBoard = boardId => {
     }
   });
   idTasksForDel.map(item => deleteTask(item));
-  // console.log('-----task----after--del---', tasks);
 };
 
 module.exports = {
-  getAll,
   getAllByBoardId,
   getById,
   createTask,
