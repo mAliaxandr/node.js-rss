@@ -23,13 +23,14 @@ const getAll = async () => {
 };
 
 const getById = async id => {
-  let board;
+  let board = null;
   boards.map(item => {
     if (item.id === id) {
-      console.log('id', item.id, id);
+      console.log('id', item.id);
       board = item;
     }
   });
+  console.log('get----------', board);
   return board;
 };
 
