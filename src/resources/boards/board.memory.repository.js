@@ -8,7 +8,6 @@ const getById = async id => {
   let board = null;
   boards.map(item => {
     if (item.id === id) {
-      console.log('id', item.id);
       board = item;
     }
   });
