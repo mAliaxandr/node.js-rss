@@ -1,24 +1,6 @@
-const boards = [
-  { id: '1', title: 'Board 1', columns: [] },
-  { id: '2', title: 'Board 2', columns: [] },
-  {
-    id: '3',
-    title: 'Board 3',
-    columns: [
-      {
-        title: 'Backlog',
-        order: 1
-      },
-      {
-        title: 'Sprint',
-        order: 2
-      }
-    ]
-  }
-];
+const boards = [];
 
 const getAll = async () => {
-  console.log('getAll BOARDS');
   return boards;
 };
 
@@ -30,7 +12,6 @@ const getById = async id => {
       board = item;
     }
   });
-  console.log('get----------', board);
   return board;
 };
 
