@@ -1,22 +1,15 @@
 const tasksService = require('../tasks/task.service');
 
-const users = [
-  { id: '1', name: 'Alex', login: 'Alex11', password: 'aall' },
-  { id: '2', name: 'Nick', login: 'Nick22', password: 'nik123' }
-];
+const users = [];
 
 const getAll = async () => {
-  // TODO: mock implementation. should be replaced during task development
-  // console.log('getAll users');
   return users;
 };
 
 const getById = async id => {
-  console.log('getById', id);
   let user;
   users.map(item => {
     if (item.id === id) {
-      console.log('id', item.id, id);
       user = item;
     }
   });
