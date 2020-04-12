@@ -4,7 +4,14 @@ const logger = createLogger({
   level: 'info',
   format: format.combine(format.cli()),
   defaultMeta: { service: 'user-service' },
-  transports: [new transports.Console()]
+  transports: [
+    new transports.Console(),
+    new transports.File({
+      filename: 'log/info.log',
+      level: 'info',
+      format: format.combine(format.json())
+    })
+  ]
 });
 
 const logReq = (req, res, next) => {
