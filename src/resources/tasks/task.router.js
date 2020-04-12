@@ -1,10 +1,20 @@
 const router = require('express').Router();
 const Task = require('./task.model');
 const tasksService = require('./task.service');
+const { ErrorHandler } = require('../../error/error');
 
-router.route('/').get(async (req, res) => {
-  const tasks = await tasksService.getAllByBoardId(req.boardId);
-  res.json(tasks);
+router.route('/').get(async (req, res, next) => {
+  try {
+    const tasks = await tasksService.getAllByBoardId(req.boardId);
+    if (tasks) {
+      res.json(tasks);
+    } else {
+      throw new ErrorHandler(404, 'User not found');
+    }
+  } catch (error) {
+    next(error);
+    return;
+  }
 });
 
 router.route('/:id').get(async (req, res) => {
