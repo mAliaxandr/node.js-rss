@@ -5,24 +5,8 @@ const YAML = require('yamljs');
 const userRouter = require('./resources/users/user.router');
 const boardRouter = require('./resources/boards/board.router');
 const taskRouter = require('./resources/tasks/task.router');
-const morgan = require('morgan');
-const { createWriteStream } = require('fs');
 
 const app = express();
-
-morgan.token('body', req => {
-  return JSON.stringify(req.body);
-});
-morgan.token('params', req => {
-  return JSON.stringify(req.params);
-});
-
-app.use(
-  morgan(':url :params :body'),
-  morgan(':url :params :body', {
-    stream: createWriteStream('access.log')
-  })
-);
 
 const swaggerDocument = YAML.load(path.join(__dirname, '../doc/api.yaml'));
 
