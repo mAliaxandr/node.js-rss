@@ -22,6 +22,7 @@ const getById = id => {
 
 const createTask = async task => {
   tasks.push(task);
+  return task;
 };
 
 const updateTask = async task => {
