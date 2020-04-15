@@ -8,4 +8,8 @@ const getAll = async () => {
   return User.find({});
 };
 
-module.exports = { createUser, getAll };
+const getById = async id => {
+  return User.findOne({ _id: id });
+};
+
+module.exports = { createUser, getAll, getById };
