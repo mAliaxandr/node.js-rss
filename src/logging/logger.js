@@ -5,7 +5,7 @@ const logger = createLogger({
   format: format.combine(format.cli()),
   defaultMeta: { service: 'user-service' },
   transports: [
-    new transports.Console(),
+    // new transports.Console(),
     new transports.File({
       filename: 'log/info.log',
       level: 'info',
