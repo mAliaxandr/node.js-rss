@@ -16,4 +16,8 @@ const updateUser = async user => {
   return User.updateOne({ _id: user.id }, user);
 };
 
-module.exports = { createUser, getAll, getById, updateUser };
+const deleteUser = async id => {
+  return await User.deleteOne({ _id: id });
+};
+
+module.exports = { createUser, getAll, getById, updateUser, deleteUser };
