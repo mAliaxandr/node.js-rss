@@ -12,4 +12,8 @@ const getById = async id => {
   return User.findOne({ _id: id });
 };
 
-module.exports = { createUser, getAll, getById };
+const updateUser = async user => {
+  return User.updateOne({ _id: user.id }, user);
+};
+
+module.exports = { createUser, getAll, getById, updateUser };
