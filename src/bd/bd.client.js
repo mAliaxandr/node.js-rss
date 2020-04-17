@@ -12,13 +12,14 @@ mongoose.connect(MONGO_CONNECTION_STRING, {
   useUnifiedTopology: true
 });
 
-const connectToBd = async () => {
+const connectToBd = async cb => {
   const db = mongoose.connection;
   db.on('error', console.error.bind(console, 'connection error:'));
   db.once('open', () => {
     console.log('connected to bd');
     db.dropDatabase();
     users.forEach(user => user.save());
+    return cb();
   });
 };
 
