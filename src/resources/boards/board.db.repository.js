@@ -4,4 +4,8 @@ const createBoard = async board => {
   return Board.create(board);
 };
 
-module.exports = { createBoard };
+const getAll = async () => {
+  return Board.find({});
+};
+
+module.exports = { createBoard, getAll };
