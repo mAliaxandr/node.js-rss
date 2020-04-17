@@ -1,10 +1,16 @@
 const mongoose = require('mongoose');
 const { MONGO_CONNECTION_STRING } = require('../common/config');
 const User = require('../resources/users/user.model');
+const Board = require('../resources/boards/board.model');
 
 const users = [
   new User({ name: 'user1', login: 'admin', password: 'admin' }),
   new User({ name: 'user2', login: 'login2', password: 'pass2' })
+];
+
+const boards = [
+  new Board({ title: 'board1', columns: [] }),
+  new Board({ title: 'board2', columns: [] })
 ];
 
 mongoose.connect(MONGO_CONNECTION_STRING, {
@@ -19,6 +25,7 @@ const connectToBd = async cb => {
     console.log('connected to bd');
     db.dropDatabase();
     users.forEach(user => user.save());
+    boards.forEach(bord => bord.save());
     return cb();
   });
 };
