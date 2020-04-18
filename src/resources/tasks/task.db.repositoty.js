@@ -8,4 +8,8 @@ const getAllByBoardId = async id => {
   return Task.find({ boardId: id });
 };
 
-module.exports = { createTask, getAllByBoardId };
+const getById = id => {
+  return Task.findOne({ _id: id });
+};
+
+module.exports = { createTask, getAllByBoardId, getById };

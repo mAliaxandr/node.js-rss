@@ -6,10 +6,12 @@ const { ErrorHandler } = require('../../error/error');
 router.route('/').get(async (req, res, next) => {
   try {
     const tasks = await tasksService.getAllByBoardId(req.boardId);
-    console.log('--------------------', tasks);
-
+    // console.log('--getByBoardId-', tasks);
+    const taskToResponse = tasks.map(item => {
+      return Task.toResponse(item);
+    });
     if (tasks) {
-      res.json(tasks);
+      res.json(taskToResponse);
     } else {
       throw new ErrorHandler(404, 'Tasks not found');
     }
@@ -22,8 +24,9 @@ router.route('/').get(async (req, res, next) => {
 router.route('/:id').get(async (req, res, next) => {
   try {
     const task = await tasksService.getById(req.params.id);
+    console.log('--getById-', task);
     if (task) {
-      res.json(task);
+      res.json(Task.toResponse(task));
     } else {
       throw new ErrorHandler(404, 'Task not found');
     }

@@ -2,3 +2,14 @@
 {"message":"   500, tasksRepo.updateTask is not a function","level":"\u001b[31merror\u001b[39m","service":"user-service"}
 {"message":"   500, tasksRepo.getById is not a function","level":"\u001b[31merror\u001b[39m","service":"user-service"}
 {"message":"   500, tasksRepo.deleteTaskWithBoard is not a function","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, tasksRepo.updateTask is not a function","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, tasksRepo.deleteTask is not a function","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, tasksRepo.deleteTaskWithBoard is not a function","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, tasksRepo.updateTask is not a function","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, tasksRepo.deleteTaskWithBoard is not a function","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, tasksRepo.updateTask is not a function","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, tasksRepo.deleteTaskWithBoard is not a function","level":"\u001b[31merror\u001b[39m","service":"user-service"}

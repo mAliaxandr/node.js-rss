@@ -17,7 +17,7 @@ const boards = [
 const tasks = [
   new Task({
     title: 'task1',
-    order: '1',
+    order: 1,
     description: 'descrip1',
     userId: null,
     boardId: null,
@@ -25,7 +25,7 @@ const tasks = [
   }),
   new Task({
     title: 'task2',
-    order: '2',
+    order: 2,
     description: 'descrip2',
     userId: null,
     boardId: null,
@@ -33,7 +33,7 @@ const tasks = [
   }),
   new Task({
     title: 'task3',
-    order: '3',
+    order: 3,
     description: 'descrip3',
     userId: null,
     boardId: null,
