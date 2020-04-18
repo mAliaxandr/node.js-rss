@@ -4,4 +4,8 @@ const createTask = async task => {
   return Task.create(task);
 };
 
-module.exports = { createTask };
+const getAllByBoardId = async id => {
+  return Task.find({ boardId: id });
+};
+
+module.exports = { createTask, getAllByBoardId };

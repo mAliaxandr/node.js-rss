@@ -6,6 +6,8 @@ const { ErrorHandler } = require('../../error/error');
 router.route('/').get(async (req, res, next) => {
   try {
     const tasks = await tasksService.getAllByBoardId(req.boardId);
+    console.log('--------------------', tasks);
+
     if (tasks) {
       res.json(tasks);
     } else {
