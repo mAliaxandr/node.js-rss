@@ -10,6 +10,11 @@ const boardSchema = new mongoose.Schema({
   }
 });
 
+boardSchema.statics.toResponse = board => {
+  const { id, title, columns } = board;
+  return { id, title, columns };
+};
+
 const Board = mongoose.model('Board', boardSchema);
 
 // class Board {

@@ -7,8 +7,15 @@ const { ErrorHandler } = require('../../error/error');
 router.route('/').get(async (req, res, next) => {
   try {
     const boards = await boardsService.getAll();
+    const boardsToResponse = boards.map(board => {
+      return {
+        title: board.title,
+        id: board._id,
+        columns: board.columns
+      };
+    });
     if (boards) {
-      res.json(boards);
+      res.json(boardsToResponse);
     } else {
       throw new ErrorHandler(404, 'User not found');
     }
@@ -22,8 +29,9 @@ router.route('/:id').get(async (req, res, next) => {
   try {
     const board = await boardsService.getById(req.params.id);
     if (board) {
-      res.json(board);
+      res.json(Board.toResponse(board));
     } else {
+      console.log('getById -errrrrrr-- ', board);
       throw new ErrorHandler(404, 'Board not found');
     }
   } catch (error) {
@@ -33,13 +41,14 @@ router.route('/:id').get(async (req, res, next) => {
 });
 
 router.route('/').post(async (req, res, next) => {
-  const board = new Board({
+  const board = {
     title: req.body.title,
     columns: req.body.columns
-  });
+  };
   try {
-    await boardsService.createBoard(board);
-    res.json(board);
+    const createdBoard = await boardsService.createBoard(board);
+    // console.log('create Board --- ', createdBoard);
+    res.json(Board.toResponse(createdBoard));
   } catch (error) {
     next(error);
     return;
@@ -70,7 +79,7 @@ router.route('/:id').delete(async (req, res, next) => {
     const deletedBoard = await boardsService.deleteBoard(req.params.id);
     await tasksService.deleteTaskWithBoard(req.params.id);
     if (deletedBoard) {
-      res.json(deletedBoard);
+      res.json('The board deleted');
     } else {
       throw new ErrorHandler(404, 'Board not found');
     }

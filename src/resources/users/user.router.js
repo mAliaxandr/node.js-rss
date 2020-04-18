@@ -41,10 +41,8 @@ router.route('/').post(async (req, res, next) => {
   });
   try {
     const created = await usersService.createUser(newUser);
-    console.log('user - 1', User.toResponse(created));
     res.json(User.toResponse(created));
   } catch (error) {
-    console.log('user - 2');
     next(error);
     return;
   }
