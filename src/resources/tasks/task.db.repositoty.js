@@ -20,10 +20,15 @@ const deleteTask = async id => {
   return await Task.deleteOne({ _id: id });
 };
 
+const deleteTaskWithBoard = async id => {
+  return await Task.deleteMany({ boardId: id });
+};
+
 module.exports = {
   createTask,
   getAllByBoardId,
   getById,
   updateTask,
-  deleteTask
+  deleteTask,
+  deleteTaskWithBoard
 };
