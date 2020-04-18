@@ -1,6 +1,7 @@
 const router = require('express').Router();
 const User = require('./user.model');
 const usersService = require('./user.service');
+const tasksService = require('../tasks/task.service');
 const { ErrorHandler } = require('../../error/error');
 
 router.route('/').get(async (req, res, next) => {
@@ -72,6 +73,7 @@ router.route('/:id').delete(async (req, res, next) => {
   try {
     const deletedUser = await usersService.deleteUser(req.params.id);
     if (deletedUser) {
+      await tasksService.deleteUserFromTasks(req.params.id);
       res.send('The user deleted');
     } else {
       throw new ErrorHandler(404, 'User not found');

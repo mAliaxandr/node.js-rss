@@ -8,12 +8,12 @@ const getAllByBoardId = async id => {
   return Task.find({ boardId: id });
 };
 
-const getById = id => {
-  return Task.findOne({ _id: id });
+const getById = async id => {
+  return await Task.findOne({ _id: id });
 };
 
 const updateTask = async task => {
-  return Task.updateOne({ _id: task.id }, task);
+  return await Task.updateOne({ _id: task.id }, task);
 };
 
 const deleteTask = async id => {
@@ -24,11 +24,16 @@ const deleteTaskWithBoard = async id => {
   return await Task.deleteMany({ boardId: id });
 };
 
+const deleteUserFromTasks = async id => {
+  return await Task.updateMany({ userId: id }, { userId: null });
+};
+
 module.exports = {
   createTask,
   getAllByBoardId,
   getById,
   updateTask,
   deleteTask,
-  deleteTaskWithBoard
+  deleteTaskWithBoard,
+  deleteUserFromTasks
 };
