@@ -16,4 +16,14 @@ const updateTask = async task => {
   return Task.updateOne({ _id: task.id }, task);
 };
 
-module.exports = { createTask, getAllByBoardId, getById, updateTask };
+const deleteTask = async id => {
+  return await Task.deleteOne({ _id: id });
+};
+
+module.exports = {
+  createTask,
+  getAllByBoardId,
+  getById,
+  updateTask,
+  deleteTask
+};
