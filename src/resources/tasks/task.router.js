@@ -6,7 +6,6 @@ const { ErrorHandler } = require('../../error/error');
 router.route('/').get(async (req, res, next) => {
   try {
     const tasks = await tasksService.getAllByBoardId(req.boardId);
-    // console.log('--getByBoardId-', tasks);
     const taskToResponse = tasks.map(item => {
       return Task.toResponse(item);
     });
@@ -37,18 +36,18 @@ router.route('/:id').get(async (req, res, next) => {
 });
 
 router.route('/').post(async (req, res, next) => {
-  const newTask = new Task({
+  const newTask = {
     title: req.body.title,
     order: req.body.order,
     description: req.body.description,
     userId: req.body.userId,
     boardId: req.boardId,
     columnId: req.body.columnId
-  });
+  };
   try {
     const created = await tasksService.createTask(newTask);
     if (created) {
-      res.json(created);
+      res.json(Task.toResponse(created));
     } else {
       throw new ErrorHandler(404, 'Task not created');
     }

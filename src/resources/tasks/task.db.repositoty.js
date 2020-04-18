@@ -12,4 +12,8 @@ const getById = id => {
   return Task.findOne({ _id: id });
 };
 
-module.exports = { createTask, getAllByBoardId, getById };
+const updateTask = async task => {
+  return Task.updateOne({ _id: task.id }, task);
+};
+
+module.exports = { createTask, getAllByBoardId, getById, updateTask };
