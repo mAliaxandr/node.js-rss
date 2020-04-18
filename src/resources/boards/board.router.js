@@ -31,7 +31,6 @@ router.route('/:id').get(async (req, res, next) => {
     if (board) {
       res.json(Board.toResponse(board));
     } else {
-      console.log('getById -errrrrrr-- ', board);
       throw new ErrorHandler(404, 'Board not found');
     }
   } catch (error) {
@@ -47,7 +46,6 @@ router.route('/').post(async (req, res, next) => {
   };
   try {
     const createdBoard = await boardsService.createBoard(board);
-    // console.log('create Board --- ', createdBoard);
     res.json(Board.toResponse(createdBoard));
   } catch (error) {
     next(error);

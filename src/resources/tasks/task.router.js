@@ -23,7 +23,6 @@ router.route('/').get(async (req, res, next) => {
 router.route('/:id').get(async (req, res, next) => {
   try {
     const task = await tasksService.getById(req.params.id);
-    // console.log('--getById-', task);
     if (task) {
       res.json(Task.toResponse(task));
     } else {

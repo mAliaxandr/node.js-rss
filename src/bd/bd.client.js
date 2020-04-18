@@ -30,14 +30,6 @@ const tasks = [
     userId: null,
     boardId: null,
     columnId: null
-  }),
-  new Task({
-    title: 'task3',
-    order: 3,
-    description: 'descrip3',
-    userId: null,
-    boardId: null,
-    columnId: null
   })
 ];
 
