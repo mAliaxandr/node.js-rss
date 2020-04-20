@@ -7,7 +7,7 @@
 5. for run test use [`npm run test`]
 
 # Connect to MongoDB in :  
-[`./node.js-rss/src/db/db.client.js`]
+[`./src/db/db.client.js`]
 
 # My Telegram: 
 [`@mAliaxandr`]
