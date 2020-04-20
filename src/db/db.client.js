@@ -42,10 +42,10 @@ const connectToBd = async cb => {
   const db = mongoose.connection;
   db.on('error', console.error.bind(console, 'connection error:'));
   db.once('open', () => {
-    console.log('connected to bd');
+    console.log('connected to MongoDB');
     db.dropDatabase();
     users.forEach(user => user.save());
-    boards.forEach(bord => bord.save());
+    boards.forEach(board => board.save());
     tasks.forEach(task => task.save());
     return cb();
   });

@@ -1,6 +1,6 @@
 const { PORT } = require('./common/config');
 const app = require('./app');
-const connectToBd = require('./bd/bd.client');
+const connectToBd = require('./db/db.client');
 
 const startApp = () => {
   app.listen(PORT, () =>
