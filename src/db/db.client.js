@@ -5,7 +5,12 @@ const Board = require('../resources/boards/board.model');
 const Task = require('../resources/tasks/task.model');
 
 const users = [
-  new User({ name: 'user1', login: 'admin', password: 'admin' }),
+  new User({
+    name: 'userAdmin',
+    login: 'admin',
+    password: 'admin',
+    _id: 'Admin-007'
+  }),
   new User({ name: 'user2', login: 'login2', password: 'pass2' })
 ];
 
