@@ -9,7 +9,7 @@ const users = [
     name: 'userAdmin',
     login: 'admin',
     password: 'admin',
-    _id: 'Admin-007'
+    _id: 'Admin007-f20f-4b9d-998a-ooooAdmin007'
   }),
   new User({ name: 'user2', login: 'login2', password: 'pass2' })
 ];
