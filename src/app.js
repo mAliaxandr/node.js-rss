@@ -6,7 +6,8 @@ const userRouter = require('./resources/users/user.router');
 const boardRouter = require('./resources/boards/board.router');
 const taskRouter = require('./resources/tasks/task.router');
 const { logReq } = require('./logging/logger');
-const { handleError, logError } = require('./error/error');
+const { handleError } = require('./error/error');
+const { logError } = require('./logging/logger');
 
 const app = express();
 
