@@ -3,15 +3,20 @@ const { MONGO_CONNECTION_STRING } = require('../common/config');
 const User = require('../resources/users/user.model');
 const Board = require('../resources/boards/board.model');
 const Task = require('../resources/tasks/task.model');
+const loginService = require('../resources/login/login.service');
 
 const users = [
   new User({
     name: 'userAdmin',
     login: 'admin',
-    password: 'admin',
+    password: loginService.getHashPassword('admin'),
     _id: 'Admin007-f20f-4b9d-998a-ooooAdmin007'
   }),
-  new User({ name: 'user2', login: 'login2', password: 'pass2' })
+  new User({
+    name: 'user2',
+    login: 'login2',
+    password: loginService.getHashPassword('pass2')
+  })
 ];
 
 const boards = [

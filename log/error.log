@@ -1,0 +1,58 @@
+{"message":"   404, User not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, User not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Board not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Board not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, User not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, User not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, User not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Board not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Board not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Uncaught Exception: User not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Cannot create collection test.users - database is in the process of being dropped.","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Cannot create collection test.users - database is in the process of being dropped.","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Invalid salt. Salt must be in the form of: $Vers$log2(NumRounds)$saltvalue","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Invalid salt. Salt must be in the form of: $Vers$log2(NumRounds)$saltvalue","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Invalid salt. Salt must be in the form of: $Vers$log2(NumRounds)$saltvalue","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Invalid salt. Salt must be in the form of: $Vers$log2(NumRounds)$saltvalue","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Invalid salt. Salt must be in the form of: $Vers$log2(NumRounds)$saltvalue","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Invalid salt. Salt must be in the form of: $Vers$log2(NumRounds)$saltvalue","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Cannot create collection test.users - database is in the process of being dropped.","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Invalid salt. Salt must be in the form of: $Vers$log2(NumRounds)$saltvalue","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Invalid salt. Salt must be in the form of: $Vers$log2(NumRounds)$saltvalue","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Invalid salt. Salt must be in the form of: $Vers$log2(NumRounds)$saltvalue","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Invalid salt. Salt must be in the form of: $Vers$log2(NumRounds)$saltvalue","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Invalid salt. Salt must be in the form of: $Vers$log2(NumRounds)$saltvalue","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Invalid salt. Salt must be in the form of: $Vers$log2(NumRounds)$saltvalue","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: hash is not defined","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Invalid salt. Salt must be in the form of: $Vers$log2(NumRounds)$saltvalue","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Invalid salt. Salt must be in the form of: $Vers$log2(NumRounds)$saltvalue","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: rounds must be a number","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: rounds must be a number","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Cannot create collection test.users - database is in the process of being dropped.","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Cannot create collection test.users - database is in the process of being dropped.","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Uncaught Exception: User not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Uncaught Exception: User not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Cannot set headers after they are sent to the client","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Cannot set headers after they are sent to the client","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Cannot create collection test.users - database is in the process of being dropped.","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Cannot create collection test.users - database is in the process of being dropped.","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Cannot create collection test.users - database is in the process of being dropped.","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: User validation failed: password: Cast to String failed for value \"Promise { <pending> }\" at path \"password\"","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: User validation failed: password: Cast to String failed for value \"Promise { <pending> }\" at path \"password\"","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: User validation failed: password: Cast to String failed for value \"Promise { <pending> }\" at path \"password\"","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: User validation failed: password: Cast to String failed for value \"Promise { <pending> }\" at path \"password\"","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Cannot create collection test.users - database is in the process of being dropped.","level":"\u001b[31merror\u001b[39m","service":"user-service"}

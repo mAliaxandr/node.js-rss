@@ -2,9 +2,8 @@ const router = require('express').Router();
 const User = require('./user.model');
 const usersService = require('./user.service');
 const tasksService = require('../tasks/task.service');
+const loginService = require('../login/login.service');
 const { ErrorHandler } = require('../../error/error');
-const bcrypt = require('bcrypt');
-const saltRounds = 10;
 
 router.route('/').get(async (req, res, next) => {
   try {
@@ -22,24 +21,19 @@ router.route('/').get(async (req, res, next) => {
 
 router.route('/:id').get(async (req, res, next) => {
   const { id } = req.params;
-  const { password } = req.query;
-  const { query } = req;
   const user = await usersService.getById(id);
-  console.log('----', query);
+  // const isHash = loginService.checkHashPassword(
+  //   req.query.password,
+  //   user.password
+  // );
+  // console.log('getby id -- ', user, req.query.password, isHash);
 
   try {
-    bcrypt.compare(password, user.password, (err, result) => {
-      console.log(password, user.password, result);
-      if (err) {
-        console.log('--errrrr--');
-      }
-      if (result) {
-        // res.json(User.toResponse(user));
-        res.json(user);
-      } else {
-        throw new ErrorHandler(404, 'User not found');
-      }
-    });
+    if (user) {
+      res.json(User.toResponse(user));
+    } else {
+      throw new ErrorHandler(404, 'User not found');
+    }
   } catch (error) {
     next(error);
     return;
@@ -47,22 +41,17 @@ router.route('/:id').get(async (req, res, next) => {
 });
 
 router.route('/').post(async (req, res, next) => {
-  const myPlaintextPassword = req.body.password;
-  // const newUser = new User({
-  //   name: req.body.name,
-  //   login: req.body.login,
-  //   password: req.body.password
-  // });
+  const hash = await loginService.getHashPassword(req.body.password);
+  console.log('post user ---', req.body.password, hash);
+
+  const newUser = new User({
+    name: req.body.name,
+    login: req.body.login,
+    password: hash
+  });
   try {
-    bcrypt.hash(myPlaintextPassword, saltRounds, (err, hash) => {
-      const newUser = new User({
-        name: req.body.name,
-        login: req.body.login,
-        password: hash
-      });
-      const created = usersService.createUser(newUser);
-      res.json(User.toResponse(created));
-    });
+    const created = usersService.createUser(newUser);
+    res.json(User.toResponse(created));
   } catch (error) {
     next(error);
     return;
