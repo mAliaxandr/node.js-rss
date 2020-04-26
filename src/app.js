@@ -9,6 +9,7 @@ const loginRouter = require('./resources/login/login.router');
 const { logReq } = require('./logging/logger');
 const { handleError } = require('./error/error');
 const { logError } = require('./logging/logger');
+const { checkToken } = require('./resources/login/login.service');
 
 const app = express();
 
@@ -41,13 +42,21 @@ app.use('/', (req, res, next) => {
 });
 
 app.use('/login', loginRouter);
+
+app.use(checkToken);
+
 app.use('/users', userRouter);
 app.use('/boards', boardRouter);
 app.use(
   '/boards/:id/tasks',
   (req, res, next) => {
-    req.boardId = req.params.id;
-    next();
+    try {
+      req.boardId = req.params.id;
+      return next();
+    } catch (error) {
+      next(error);
+      return;
+    }
   },
   taskRouter
 );

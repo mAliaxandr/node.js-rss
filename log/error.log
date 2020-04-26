@@ -72,3 +72,588 @@
 {"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
 {"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
 {"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   403, Forbidden","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Cannot create collection test.users - database is in the process of being dropped.","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Cannot create collection test.users - database is in the process of being dropped.","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: invalid token","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: invalid token","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: invalid token","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: invalid token","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, User not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Cannot read property 'startsWith' of undefined","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Cannot read property 'startsWith' of undefined","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Cannot read property 'startsWith' of undefined","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Cannot read property 'startsWith' of undefined","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Cannot read property 'startsWith' of undefined","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Board not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Board not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: invalid token","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: invalid token","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: invalid token","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: invalid token","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Cannot read property 'password' of null","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Cannot read property 'startsWith' of undefined","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Cannot read property 'startsWith' of undefined","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Cannot read property 'startsWith' of undefined","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Cannot read property 'startsWith' of undefined","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Cannot read property 'startsWith' of undefined","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Cannot set property 'message' of undefined","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Cannot set property 'message' of undefined","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, User not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Board not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Board not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, User not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Board not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Cannot create collection test.users - database is in the process of being dropped.","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Cannot read property 'password' of null","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Cannot read property 'password' of null","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Cannot read property 'password' of null","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Board not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, User not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, User not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Board not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, User not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Board not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, User not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Board not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, User not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Board not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Cannot create collection test.users - database is in the process of being dropped.","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Cannot read property 'password' of null","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Cannot read property 'password' of null","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Cannot read property 'password' of null","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Board not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, User not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, User not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, undefined","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, undefined","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Board not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, undefined","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Board not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, undefined","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Board not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Board not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, undefined","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, undefined","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Board not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Cannot create collection test.users - database is in the process of being dropped.","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, undefined","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Board not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, undefined","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Board not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, undefined","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Board not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, undefined","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, undefined","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, undefined","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Board not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, undefined","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Board not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Board not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Board not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Cannot create collection test.users - database is in the process of being dropped.","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Cannot create collection test.users - database is in the process of being dropped.","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Cannot read property 'password' of null","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Cannot read property 'password' of null","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Cannot read property 'password' of null","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Board not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Board not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Board not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Board not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}

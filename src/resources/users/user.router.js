@@ -22,17 +22,11 @@ router.route('/').get(async (req, res, next) => {
 router.route('/:id').get(async (req, res, next) => {
   const { id } = req.params;
   const user = await usersService.getById(id);
-  // const isHash = loginService.checkHashPassword(
-  //   req.query.password,
-  //   user.password
-  // );
-  // console.log('getby id -- ', user, req.query.password, isHash);
-
   try {
     if (user) {
       res.json(User.toResponse(user));
     } else {
-      throw new ErrorHandler(404, 'User not found');
+      throw new ErrorHandler(404, 'undefined');
     }
   } catch (error) {
     next(error);
@@ -42,15 +36,13 @@ router.route('/:id').get(async (req, res, next) => {
 
 router.route('/').post(async (req, res, next) => {
   const hash = await loginService.getHashPassword(req.body.password);
-  console.log('post user ---', req.body.password, hash);
-
   const newUser = new User({
     name: req.body.name,
     login: req.body.login,
     password: hash
   });
   try {
-    const created = usersService.createUser(newUser);
+    const created = await usersService.createUser(newUser);
     res.json(User.toResponse(created));
   } catch (error) {
     next(error);

@@ -10,7 +10,6 @@ router.route('/').post(async (req, res, next) => {
     } else {
       throw new ErrorHandler(403, 'Forbidden');
     }
-    console.log('loginRouter -- token---- ', jwtToken);
   } catch (error) {
     next(error);
     return;

@@ -8,7 +8,6 @@ const { JWT_SECRET_KEY } = require('../../common/config');
 const getHashPassword = password => {
   const salt = bcrypt.genSaltSync(BYCTYPT_SALT_ROUND);
   const hash = bcrypt.hashSync(password, salt);
-  console.log('log - service ----', password, hash);
   return hash;
 };
 
@@ -30,4 +29,26 @@ const getToken = async data => {
   }
 };
 
-module.exports = { getHashPassword, checkHashPassword, getToken };
+const checkToken = async (req, res, next) => {
+  let token = req.headers.authorization;
+  const error = {
+    message: 'Unauthorized',
+    statusCode: 401
+  };
+  if (!token) {
+    return next(error);
+  }
+  const isBearerToken = token.startsWith('Bearer');
+
+  if (token && isBearerToken) {
+    token = token.slice(7, token.length);
+  }
+
+  const verifyedToken = await jwt.verify(token, JWT_SECRET_KEY);
+  if (token && verifyedToken) {
+    return next();
+  }
+  return next(error);
+};
+
+module.exports = { getHashPassword, checkHashPassword, getToken, checkToken };

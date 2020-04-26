@@ -13,7 +13,6 @@ const getById = async id => {
 };
 
 const getByLogin = async log => {
-  console.log('getBYLogin -- repo ---', log);
   return User.findOne({ login: log });
 };
 

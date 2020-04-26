@@ -408,3 +408,972 @@
 {"message":"    url: /boards/46812d78-6909-4f09-9987-515c8d840212, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
 {"message":"    url: /users, \n    params: {}, \n    body: {\"name\":\"sas 4---\",\"login\":\"ssss\",\"password\":\"1111\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
 {"message":"    url: /login, \n    params: {}, \n    body: {\"name\":\"sas 4---\",\"login\":\"ssss\",\"password\":\"1111\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {\"name\":\"sas 4---\",\"login\":\"ssss\",\"password\":\"1111\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /login, \n    params: {}, \n    body: {\"name\":\"sas 4---\",\"login\":\"ssss\",\"password\":\"1111\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /login, \n    params: {}, \n    body: {\"name\":\"sas 4---\",\"login\":\"ssss\",\"password\":\"111\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   403, Forbidden","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /login, \n    params: {}, \n    body: {\"name\":\"sas 4---\",\"login\":\"ssss\",\"password\":\"1111\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {\"name\":\"sas 4---\",\"login\":\"ssss\",\"password\":\"1111\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Cannot create collection test.users - database is in the process of being dropped.","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Cannot create collection test.users - database is in the process of being dropped.","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: invalid token","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: invalid token","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: invalid token","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: invalid token","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, User not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Cannot read property 'startsWith' of undefined","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Cannot read property 'startsWith' of undefined","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Cannot read property 'startsWith' of undefined","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Cannot read property 'startsWith' of undefined","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Cannot read property 'startsWith' of undefined","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Board not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Board not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: invalid token","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: invalid token","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: invalid token","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: invalid token","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Cannot read property 'password' of null","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Cannot read property 'startsWith' of undefined","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Cannot read property 'startsWith' of undefined","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Cannot read property 'startsWith' of undefined","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Cannot read property 'startsWith' of undefined","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Cannot read property 'startsWith' of undefined","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Cannot set property 'message' of undefined","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Cannot set property 'message' of undefined","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, User not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Board not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Board not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, User not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Board not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Cannot create collection test.users - database is in the process of being dropped.","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Cannot read property 'password' of null","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Cannot read property 'password' of null","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Cannot read property 'password' of null","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Board not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, User not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, User not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Board not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, User not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Board not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, User not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Board not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, User not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Board not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Cannot create collection test.users - database is in the process of being dropped.","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Cannot read property 'password' of null","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Cannot read property 'password' of null","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Cannot read property 'password' of null","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Board not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, User not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, User not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, undefined","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, undefined","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Board not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, undefined","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Board not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, undefined","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Board not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Board not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, undefined","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, undefined","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Board not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Cannot create collection test.users - database is in the process of being dropped.","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, undefined","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Board not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, undefined","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Board not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, undefined","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Board not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, undefined","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, undefined","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, undefined","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Board not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, undefined","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Board not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Board not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Board not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Cannot create collection test.users - database is in the process of being dropped.","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Cannot create collection test.users - database is in the process of being dropped.","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/12345, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/12345, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/12345, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /login, \n    params: {}, \n    body: {\"login\":\"admin\",\"password\":\"admin\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   500, Cannot read property 'password' of null","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /login, \n    params: {}, \n    body: {\"login\":\"admin\",\"password\":\"admin\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   500, Cannot read property 'password' of null","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/undefined, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /login, \n    params: {}, \n    body: {\"login\":\"admin\",\"password\":\"admin\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   500, Cannot read property 'password' of null","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/undefined/tasks, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/undefined/tasks, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/undefined/tasks, \n    params: {}, \n    body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/undefined/tasks, \n    params: {}, \n    body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/undefined/tasks/undefined, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/undefined, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: jwt malformed","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /users/123, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /users/12345, \n    params: {}, \n    body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /users/12345, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/12345/tasks, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/12345/tasks/12345, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/12345/tasks, \n    params: {}, \n    body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/12345/tasks/12345, \n    params: {}, \n    body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/12345/tasks/12345, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /login, \n    params: {}, \n    body: {\"login\":\"admin\",\"password\":\"admin\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/554940dd-818e-475b-8cfd-4801ba629245, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/049b9db5-22a9-4de1-a8b7-a8184ea45ead, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/c28d1757-47fa-4509-9c2b-80ce7f61ab45, \n    params: {}, \n    body: {\"id\":\"c28d1757-47fa-4509-9c2b-80ce7f61ab45\",\"title\":\"Autotest updated board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/c28d1757-47fa-4509-9c2b-80ce7f61ab45, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/c28d1757-47fa-4509-9c2b-80ce7f61ab45, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/bd9f7fdb-d476-4f59-b2b7-78c6f1a57bf0, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/bd9f7fdb-d476-4f59-b2b7-78c6f1a57bf0, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   404, Board not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/8957adac-344c-42b5-ad8e-3c382b50a8ff/tasks, \n    params: {}, \n    body: {\"title\":\"Task #1\",\"order\":1,\"description\":\"Lorem ipsum\",\"boardId\":\"8957adac-344c-42b5-ad8e-3c382b50a8ff\",\"userId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/8957adac-344c-42b5-ad8e-3c382b50a8ff/tasks, \n    params: {}, \n    body: {\"title\":\"Task #3\",\"order\":3,\"description\":\"Lorem ipsum\",\"boardId\":\"8957adac-344c-42b5-ad8e-3c382b50a8ff\",\"userId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/8957adac-344c-42b5-ad8e-3c382b50a8ff/tasks, \n    params: {}, \n    body: {\"title\":\"Task #4\",\"order\":4,\"description\":\"Lorem ipsum\",\"boardId\":\"8957adac-344c-42b5-ad8e-3c382b50a8ff\",\"userId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/8957adac-344c-42b5-ad8e-3c382b50a8ff/tasks, \n    params: {}, \n    body: {\"title\":\"Task #5\",\"order\":5,\"description\":\"Lorem ipsum\",\"boardId\":\"8957adac-344c-42b5-ad8e-3c382b50a8ff\",\"userId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/8957adac-344c-42b5-ad8e-3c382b50a8ff/tasks, \n    params: {}, \n    body: {\"title\":\"Task #2\",\"order\":2,\"description\":\"Lorem ipsum\",\"boardId\":\"8957adac-344c-42b5-ad8e-3c382b50a8ff\",\"userId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/8957adac-344c-42b5-ad8e-3c382b50a8ff/tasks/4e9682ef-75ed-4dc7-83bf-bd5c92447966, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/8957adac-344c-42b5-ad8e-3c382b50a8ff/tasks/faf2747d-5ad2-42d2-81b9-18ba607bcb4e, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/8957adac-344c-42b5-ad8e-3c382b50a8ff/tasks/384b7d2c-9aa5-43c5-9de8-004b6c115909, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/8957adac-344c-42b5-ad8e-3c382b50a8ff/tasks/1e9f8df7-d99e-4b21-b66e-54327da68874, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/8957adac-344c-42b5-ad8e-3c382b50a8ff/tasks/1377328a-9c67-40ab-8c5d-2bc386a61d0c, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/8957adac-344c-42b5-ad8e-3c382b50a8ff, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/8957adac-344c-42b5-ad8e-3c382b50a8ff/tasks/4e9682ef-75ed-4dc7-83bf-bd5c92447966, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/8957adac-344c-42b5-ad8e-3c382b50a8ff/tasks/faf2747d-5ad2-42d2-81b9-18ba607bcb4e, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/8957adac-344c-42b5-ad8e-3c382b50a8ff/tasks/384b7d2c-9aa5-43c5-9de8-004b6c115909, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/8957adac-344c-42b5-ad8e-3c382b50a8ff/tasks/1e9f8df7-d99e-4b21-b66e-54327da68874, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/8957adac-344c-42b5-ad8e-3c382b50a8ff/tasks/1377328a-9c67-40ab-8c5d-2bc386a61d0c, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/986d8759-ab42-4a7e-a38f-53db4a16c451, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /login, \n    params: {}, \n    body: {\"login\":\"admin\",\"password\":\"admin\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/7b921172-1f7b-42d7-bc52-73c8b6558f54/tasks, \n    params: {}, \n    body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/7b921172-1f7b-42d7-bc52-73c8b6558f54/tasks, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/7b921172-1f7b-42d7-bc52-73c8b6558f54/tasks, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/7b921172-1f7b-42d7-bc52-73c8b6558f54/tasks/56ec1a50-e410-4c7d-bc69-3fbcf4a6e920, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/7b921172-1f7b-42d7-bc52-73c8b6558f54/tasks, \n    params: {}, \n    body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/7b921172-1f7b-42d7-bc52-73c8b6558f54/tasks/1b084471-4538-43e8-8ff5-25b1d26c657e, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/7b921172-1f7b-42d7-bc52-73c8b6558f54/tasks, \n    params: {}, \n    body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/7b921172-1f7b-42d7-bc52-73c8b6558f54/tasks/583eb557-3da8-4602-9bed-e681e95c5194, \n    params: {}, \n    body: {\"id\":\"583eb557-3da8-4602-9bed-e681e95c5194\",\"title\":\"Autotest updated task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":\"7b921172-1f7b-42d7-bc52-73c8b6558f54\",\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/7b921172-1f7b-42d7-bc52-73c8b6558f54/tasks/583eb557-3da8-4602-9bed-e681e95c5194, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/7b921172-1f7b-42d7-bc52-73c8b6558f54/tasks/56ec1a50-e410-4c7d-bc69-3fbcf4a6e920, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/7b921172-1f7b-42d7-bc52-73c8b6558f54/tasks/56ec1a50-e410-4c7d-bc69-3fbcf4a6e920, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/7b921172-1f7b-42d7-bc52-73c8b6558f54/tasks/56ec1a50-e410-4c7d-bc69-3fbcf4a6e920, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/7b921172-1f7b-42d7-bc52-73c8b6558f54, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /login, \n    params: {}, \n    body: {\"login\":\"admin\",\"password\":\"admin\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users/6fc1d24b-7ce6-47f7-bd71-e5b8410f040a, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users/6fc1d24b-7ce6-47f7-bd71-e5b8410f040a, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users/96a53260-7a3f-4e8b-bcf0-efec8e9eec26, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users/4ede04c9-afa0-4267-a939-0e06f68b1e50, \n    params: {}, \n    body: {\"name\":\"Autotest updated TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\",\"id\":\"4ede04c9-afa0-4267-a939-0e06f68b1e50\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users/4ede04c9-afa0-4267-a939-0e06f68b1e50, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users/4ede04c9-afa0-4267-a939-0e06f68b1e50, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users/f666f5c6-7717-4e82-b713-45e1088d12cf, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/aeb3dc32-08cb-4a42-9943-60b50ab6312a/tasks, \n    params: {}, \n    body: {\"title\":\"Task #2\",\"order\":2,\"description\":\"Lorem ipsum\",\"userId\":\"141ab277-acbd-45f3-bc84-af9298e2ad27\",\"boardId\":\"aeb3dc32-08cb-4a42-9943-60b50ab6312a\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/aeb3dc32-08cb-4a42-9943-60b50ab6312a/tasks, \n    params: {}, \n    body: {\"title\":\"Task #1\",\"order\":1,\"description\":\"Lorem ipsum\",\"userId\":\"141ab277-acbd-45f3-bc84-af9298e2ad27\",\"boardId\":\"aeb3dc32-08cb-4a42-9943-60b50ab6312a\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users/141ab277-acbd-45f3-bc84-af9298e2ad27, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/aeb3dc32-08cb-4a42-9943-60b50ab6312a/tasks/25df0554-7c97-4aa2-b796-f17f94fd9a7c, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/aeb3dc32-08cb-4a42-9943-60b50ab6312a/tasks/61371a67-a3b6-4ee5-8df7-88ac4359859c, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/aeb3dc32-08cb-4a42-9943-60b50ab6312a/tasks/25df0554-7c97-4aa2-b796-f17f94fd9a7c, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/aeb3dc32-08cb-4a42-9943-60b50ab6312a/tasks/61371a67-a3b6-4ee5-8df7-88ac4359859c, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/aeb3dc32-08cb-4a42-9943-60b50ab6312a, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/12345, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/12345, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/12345, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/12345/tasks, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/12345/tasks/12345, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/12345/tasks, \n    params: {}, \n    body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/12345/tasks/12345, \n    params: {}, \n    body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/12345/tasks/12345, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /users/123, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /users/12345, \n    params: {}, \n    body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /users/12345, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /login, \n    params: {}, \n    body: {\"login\":\"admin\",\"password\":\"admin\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/44ccbf27-9348-4475-8625-8024c6ae4e4a, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/70457630-98c3-4813-afde-fb988cbcc419, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/20c155c0-f23e-4efe-b338-2e0590ec3b13, \n    params: {}, \n    body: {\"id\":\"20c155c0-f23e-4efe-b338-2e0590ec3b13\",\"title\":\"Autotest updated board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/20c155c0-f23e-4efe-b338-2e0590ec3b13, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/20c155c0-f23e-4efe-b338-2e0590ec3b13, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/e7d1dd4b-6370-471c-b5a0-d5d766abeb9d, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/e7d1dd4b-6370-471c-b5a0-d5d766abeb9d, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   404, Board not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/7e3329a6-6bb2-4002-8344-40a2a300594e/tasks, \n    params: {}, \n    body: {\"title\":\"Task #1\",\"order\":1,\"description\":\"Lorem ipsum\",\"boardId\":\"7e3329a6-6bb2-4002-8344-40a2a300594e\",\"userId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/7e3329a6-6bb2-4002-8344-40a2a300594e/tasks, \n    params: {}, \n    body: {\"title\":\"Task #2\",\"order\":2,\"description\":\"Lorem ipsum\",\"boardId\":\"7e3329a6-6bb2-4002-8344-40a2a300594e\",\"userId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/7e3329a6-6bb2-4002-8344-40a2a300594e/tasks, \n    params: {}, \n    body: {\"title\":\"Task #4\",\"order\":4,\"description\":\"Lorem ipsum\",\"boardId\":\"7e3329a6-6bb2-4002-8344-40a2a300594e\",\"userId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/7e3329a6-6bb2-4002-8344-40a2a300594e/tasks, \n    params: {}, \n    body: {\"title\":\"Task #5\",\"order\":5,\"description\":\"Lorem ipsum\",\"boardId\":\"7e3329a6-6bb2-4002-8344-40a2a300594e\",\"userId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/7e3329a6-6bb2-4002-8344-40a2a300594e/tasks, \n    params: {}, \n    body: {\"title\":\"Task #3\",\"order\":3,\"description\":\"Lorem ipsum\",\"boardId\":\"7e3329a6-6bb2-4002-8344-40a2a300594e\",\"userId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/7e3329a6-6bb2-4002-8344-40a2a300594e/tasks/ef68a8c9-8865-488a-af7d-57dede82b2ed, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/7e3329a6-6bb2-4002-8344-40a2a300594e/tasks/ff63a8c7-01a8-4f70-99d7-245f69a39abe, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/7e3329a6-6bb2-4002-8344-40a2a300594e/tasks/db9640b0-ad18-45e6-8405-faf3c0e5f1c3, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/7e3329a6-6bb2-4002-8344-40a2a300594e/tasks/d5b16423-9d6a-4121-935f-c84dbd593c0b, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/7e3329a6-6bb2-4002-8344-40a2a300594e/tasks/8da1fe04-e1c2-431c-a0de-81a9a1f34e04, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/7e3329a6-6bb2-4002-8344-40a2a300594e, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/7e3329a6-6bb2-4002-8344-40a2a300594e/tasks/ef68a8c9-8865-488a-af7d-57dede82b2ed, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/7e3329a6-6bb2-4002-8344-40a2a300594e/tasks/ff63a8c7-01a8-4f70-99d7-245f69a39abe, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/7e3329a6-6bb2-4002-8344-40a2a300594e/tasks/db9640b0-ad18-45e6-8405-faf3c0e5f1c3, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/7e3329a6-6bb2-4002-8344-40a2a300594e/tasks/d5b16423-9d6a-4121-935f-c84dbd593c0b, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/7e3329a6-6bb2-4002-8344-40a2a300594e/tasks/8da1fe04-e1c2-431c-a0de-81a9a1f34e04, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/208cb443-a95a-4464-b9ef-ee4c8eba6ded, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /login, \n    params: {}, \n    body: {\"login\":\"admin\",\"password\":\"admin\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users/2692af72-4e9e-460d-993f-5e9d800f4cfe, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users/2692af72-4e9e-460d-993f-5e9d800f4cfe, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users/c1c071aa-2d21-45f6-84bd-8b6cd6013dea, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users/4d6c63dc-d67c-4d1f-bbee-0699fda06b7b, \n    params: {}, \n    body: {\"name\":\"Autotest updated TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\",\"id\":\"4d6c63dc-d67c-4d1f-bbee-0699fda06b7b\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users/4d6c63dc-d67c-4d1f-bbee-0699fda06b7b, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users/4d6c63dc-d67c-4d1f-bbee-0699fda06b7b, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users/df9cf2e8-363b-48c3-a5a0-bb8cface0c0d, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/cbe7a892-a228-4100-a749-f96268a876cc/tasks, \n    params: {}, \n    body: {\"title\":\"Task #1\",\"order\":1,\"description\":\"Lorem ipsum\",\"userId\":\"a317ef6f-80cf-49fe-b55f-102ba5aae5b0\",\"boardId\":\"cbe7a892-a228-4100-a749-f96268a876cc\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/cbe7a892-a228-4100-a749-f96268a876cc/tasks, \n    params: {}, \n    body: {\"title\":\"Task #2\",\"order\":2,\"description\":\"Lorem ipsum\",\"userId\":\"a317ef6f-80cf-49fe-b55f-102ba5aae5b0\",\"boardId\":\"cbe7a892-a228-4100-a749-f96268a876cc\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users/a317ef6f-80cf-49fe-b55f-102ba5aae5b0, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/cbe7a892-a228-4100-a749-f96268a876cc/tasks/63c563e6-dcc5-40bd-8fb1-ee1a7c658322, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/cbe7a892-a228-4100-a749-f96268a876cc/tasks/08fd8f82-ef11-47ee-8c99-a2f01025efa8, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/cbe7a892-a228-4100-a749-f96268a876cc/tasks/63c563e6-dcc5-40bd-8fb1-ee1a7c658322, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/cbe7a892-a228-4100-a749-f96268a876cc/tasks/08fd8f82-ef11-47ee-8c99-a2f01025efa8, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/cbe7a892-a228-4100-a749-f96268a876cc, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /login, \n    params: {}, \n    body: {\"login\":\"admin\",\"password\":\"admin\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/74e7de83-f14f-448b-b82a-02358d4b1f69/tasks, \n    params: {}, \n    body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/74e7de83-f14f-448b-b82a-02358d4b1f69/tasks, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/74e7de83-f14f-448b-b82a-02358d4b1f69/tasks, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/74e7de83-f14f-448b-b82a-02358d4b1f69/tasks/f59b89d6-c291-4511-b3be-653f94f1e21b, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/74e7de83-f14f-448b-b82a-02358d4b1f69/tasks, \n    params: {}, \n    body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/74e7de83-f14f-448b-b82a-02358d4b1f69/tasks/35025450-9d03-4809-b888-608f83c5dde9, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/74e7de83-f14f-448b-b82a-02358d4b1f69/tasks, \n    params: {}, \n    body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/74e7de83-f14f-448b-b82a-02358d4b1f69/tasks/71958822-8ae2-4f1a-83ae-088c85197401, \n    params: {}, \n    body: {\"id\":\"71958822-8ae2-4f1a-83ae-088c85197401\",\"title\":\"Autotest updated task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":\"74e7de83-f14f-448b-b82a-02358d4b1f69\",\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/74e7de83-f14f-448b-b82a-02358d4b1f69/tasks/71958822-8ae2-4f1a-83ae-088c85197401, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/74e7de83-f14f-448b-b82a-02358d4b1f69/tasks/f59b89d6-c291-4511-b3be-653f94f1e21b, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/74e7de83-f14f-448b-b82a-02358d4b1f69/tasks/f59b89d6-c291-4511-b3be-653f94f1e21b, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/74e7de83-f14f-448b-b82a-02358d4b1f69/tasks/f59b89d6-c291-4511-b3be-653f94f1e21b, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/74e7de83-f14f-448b-b82a-02358d4b1f69, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/12345, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/12345, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/12345, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/12345/tasks, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/12345/tasks/12345, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/12345/tasks, \n    params: {}, \n    body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/12345/tasks/12345, \n    params: {}, \n    body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/12345/tasks/12345, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /users/123, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /users/12345, \n    params: {}, \n    body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /users/12345, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /login, \n    params: {}, \n    body: {\"login\":\"admin\",\"password\":\"admin\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/2ac898ca-67bf-461b-ac0f-6a77f0b0900c, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/84914702-4a06-4a9d-9d95-c9d59ca4d429, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/9734504a-88d7-4798-9def-d834f67d258b, \n    params: {}, \n    body: {\"id\":\"9734504a-88d7-4798-9def-d834f67d258b\",\"title\":\"Autotest updated board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/9734504a-88d7-4798-9def-d834f67d258b, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/9734504a-88d7-4798-9def-d834f67d258b, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/81d27aab-4cbb-4901-a4c0-8a8b6fbabbdb, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/81d27aab-4cbb-4901-a4c0-8a8b6fbabbdb, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   404, Board not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/b7843d7b-84ef-40ab-9983-3a2567490a13/tasks, \n    params: {}, \n    body: {\"title\":\"Task #1\",\"order\":1,\"description\":\"Lorem ipsum\",\"boardId\":\"b7843d7b-84ef-40ab-9983-3a2567490a13\",\"userId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/b7843d7b-84ef-40ab-9983-3a2567490a13/tasks, \n    params: {}, \n    body: {\"title\":\"Task #2\",\"order\":2,\"description\":\"Lorem ipsum\",\"boardId\":\"b7843d7b-84ef-40ab-9983-3a2567490a13\",\"userId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/b7843d7b-84ef-40ab-9983-3a2567490a13/tasks, \n    params: {}, \n    body: {\"title\":\"Task #3\",\"order\":3,\"description\":\"Lorem ipsum\",\"boardId\":\"b7843d7b-84ef-40ab-9983-3a2567490a13\",\"userId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/b7843d7b-84ef-40ab-9983-3a2567490a13/tasks, \n    params: {}, \n    body: {\"title\":\"Task #4\",\"order\":4,\"description\":\"Lorem ipsum\",\"boardId\":\"b7843d7b-84ef-40ab-9983-3a2567490a13\",\"userId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/b7843d7b-84ef-40ab-9983-3a2567490a13/tasks, \n    params: {}, \n    body: {\"title\":\"Task #5\",\"order\":5,\"description\":\"Lorem ipsum\",\"boardId\":\"b7843d7b-84ef-40ab-9983-3a2567490a13\",\"userId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/b7843d7b-84ef-40ab-9983-3a2567490a13/tasks/1dd53fc0-532d-49a1-8482-a11e03588dbc, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/b7843d7b-84ef-40ab-9983-3a2567490a13/tasks/f79b9b0b-80eb-43a9-9d7e-801f932d3045, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/b7843d7b-84ef-40ab-9983-3a2567490a13/tasks/8dd7ec7f-a67b-4e7d-a6cd-112fc6a00d7d, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/b7843d7b-84ef-40ab-9983-3a2567490a13/tasks/610461ea-b5be-49f5-89c2-c1ecf3036adf, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/b7843d7b-84ef-40ab-9983-3a2567490a13/tasks/f263c012-8a24-455c-be36-178cbaf3fa90, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/b7843d7b-84ef-40ab-9983-3a2567490a13, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/b7843d7b-84ef-40ab-9983-3a2567490a13/tasks/1dd53fc0-532d-49a1-8482-a11e03588dbc, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/b7843d7b-84ef-40ab-9983-3a2567490a13/tasks/f79b9b0b-80eb-43a9-9d7e-801f932d3045, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/b7843d7b-84ef-40ab-9983-3a2567490a13/tasks/8dd7ec7f-a67b-4e7d-a6cd-112fc6a00d7d, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/b7843d7b-84ef-40ab-9983-3a2567490a13/tasks/610461ea-b5be-49f5-89c2-c1ecf3036adf, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/b7843d7b-84ef-40ab-9983-3a2567490a13/tasks/f263c012-8a24-455c-be36-178cbaf3fa90, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/d21b4357-a5ae-42b7-962d-a9ccbce6e415, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /login, \n    params: {}, \n    body: {\"login\":\"admin\",\"password\":\"admin\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users/36e52213-f795-496b-8c68-c8f62ee49ac2, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users/36e52213-f795-496b-8c68-c8f62ee49ac2, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users/2fcd3fec-f794-44ba-a75c-16fb143724bf, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users/fcec59b8-1053-470a-9bfb-560537022f15, \n    params: {}, \n    body: {\"name\":\"Autotest updated TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\",\"id\":\"fcec59b8-1053-470a-9bfb-560537022f15\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users/fcec59b8-1053-470a-9bfb-560537022f15, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users/fcec59b8-1053-470a-9bfb-560537022f15, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users/6e769ec9-0fd5-4e35-a21b-798267aa3a86, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/8a39df66-db77-428e-99b3-0409991dd128/tasks, \n    params: {}, \n    body: {\"title\":\"Task #1\",\"order\":1,\"description\":\"Lorem ipsum\",\"userId\":\"0d6ee04f-d111-45da-b3ca-b85f3a2f3170\",\"boardId\":\"8a39df66-db77-428e-99b3-0409991dd128\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/8a39df66-db77-428e-99b3-0409991dd128/tasks, \n    params: {}, \n    body: {\"title\":\"Task #2\",\"order\":2,\"description\":\"Lorem ipsum\",\"userId\":\"0d6ee04f-d111-45da-b3ca-b85f3a2f3170\",\"boardId\":\"8a39df66-db77-428e-99b3-0409991dd128\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users/0d6ee04f-d111-45da-b3ca-b85f3a2f3170, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/8a39df66-db77-428e-99b3-0409991dd128/tasks/228a9d3d-1600-4eff-8708-4fb6593c1c88, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/8a39df66-db77-428e-99b3-0409991dd128/tasks/84d1cf5a-ec6b-41c6-bf6b-d7e1cbe68f34, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/8a39df66-db77-428e-99b3-0409991dd128/tasks/228a9d3d-1600-4eff-8708-4fb6593c1c88, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/8a39df66-db77-428e-99b3-0409991dd128/tasks/84d1cf5a-ec6b-41c6-bf6b-d7e1cbe68f34, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/8a39df66-db77-428e-99b3-0409991dd128, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /login, \n    params: {}, \n    body: {\"login\":\"admin\",\"password\":\"admin\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/44c0fb39-82cf-44a1-8a85-8b6a5bcb3c6d/tasks, \n    params: {}, \n    body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/44c0fb39-82cf-44a1-8a85-8b6a5bcb3c6d/tasks, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/44c0fb39-82cf-44a1-8a85-8b6a5bcb3c6d/tasks, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/44c0fb39-82cf-44a1-8a85-8b6a5bcb3c6d/tasks/da5e770b-0ba3-4621-84ef-d4dd07878a89, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/44c0fb39-82cf-44a1-8a85-8b6a5bcb3c6d/tasks, \n    params: {}, \n    body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/44c0fb39-82cf-44a1-8a85-8b6a5bcb3c6d/tasks/9b3e330b-2ccb-4ba6-b16f-1bc342063d52, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/44c0fb39-82cf-44a1-8a85-8b6a5bcb3c6d/tasks, \n    params: {}, \n    body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/44c0fb39-82cf-44a1-8a85-8b6a5bcb3c6d/tasks/a0f9a002-b665-49ca-9107-4384fc4e534b, \n    params: {}, \n    body: {\"id\":\"a0f9a002-b665-49ca-9107-4384fc4e534b\",\"title\":\"Autotest updated task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":\"44c0fb39-82cf-44a1-8a85-8b6a5bcb3c6d\",\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/44c0fb39-82cf-44a1-8a85-8b6a5bcb3c6d/tasks/a0f9a002-b665-49ca-9107-4384fc4e534b, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/44c0fb39-82cf-44a1-8a85-8b6a5bcb3c6d/tasks/da5e770b-0ba3-4621-84ef-d4dd07878a89, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/44c0fb39-82cf-44a1-8a85-8b6a5bcb3c6d/tasks/da5e770b-0ba3-4621-84ef-d4dd07878a89, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/44c0fb39-82cf-44a1-8a85-8b6a5bcb3c6d/tasks/da5e770b-0ba3-4621-84ef-d4dd07878a89, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/44c0fb39-82cf-44a1-8a85-8b6a5bcb3c6d, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /users/123, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /users/12345, \n    params: {}, \n    body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /users/12345, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/12345, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/12345, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/12345, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/12345/tasks, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/12345/tasks/12345, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/12345/tasks, \n    params: {}, \n    body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/12345/tasks/12345, \n    params: {}, \n    body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/12345/tasks/12345, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /login, \n    params: {}, \n    body: {\"login\":\"admin\",\"password\":\"admin\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/9057f9de-6a6e-4895-8657-cd19502f0bab, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/7f7f6deb-6fe0-4a27-92fc-3780a6eb28eb, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/fc05188c-ed7d-4037-9db5-1b6914f01856, \n    params: {}, \n    body: {\"id\":\"fc05188c-ed7d-4037-9db5-1b6914f01856\",\"title\":\"Autotest updated board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/fc05188c-ed7d-4037-9db5-1b6914f01856, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/fc05188c-ed7d-4037-9db5-1b6914f01856, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/c2b335a7-7fd3-4ba4-8370-38b6919c6454, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/c2b335a7-7fd3-4ba4-8370-38b6919c6454, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   404, Board not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/f91eec3e-caca-4564-8d7e-9113059fe847/tasks, \n    params: {}, \n    body: {\"title\":\"Task #1\",\"order\":1,\"description\":\"Lorem ipsum\",\"boardId\":\"f91eec3e-caca-4564-8d7e-9113059fe847\",\"userId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/f91eec3e-caca-4564-8d7e-9113059fe847/tasks, \n    params: {}, \n    body: {\"title\":\"Task #2\",\"order\":2,\"description\":\"Lorem ipsum\",\"boardId\":\"f91eec3e-caca-4564-8d7e-9113059fe847\",\"userId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/f91eec3e-caca-4564-8d7e-9113059fe847/tasks, \n    params: {}, \n    body: {\"title\":\"Task #3\",\"order\":3,\"description\":\"Lorem ipsum\",\"boardId\":\"f91eec3e-caca-4564-8d7e-9113059fe847\",\"userId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/f91eec3e-caca-4564-8d7e-9113059fe847/tasks, \n    params: {}, \n    body: {\"title\":\"Task #5\",\"order\":5,\"description\":\"Lorem ipsum\",\"boardId\":\"f91eec3e-caca-4564-8d7e-9113059fe847\",\"userId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/f91eec3e-caca-4564-8d7e-9113059fe847/tasks, \n    params: {}, \n    body: {\"title\":\"Task #4\",\"order\":4,\"description\":\"Lorem ipsum\",\"boardId\":\"f91eec3e-caca-4564-8d7e-9113059fe847\",\"userId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/f91eec3e-caca-4564-8d7e-9113059fe847/tasks/410210c4-4a13-48c0-a12a-d153febb985d, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/f91eec3e-caca-4564-8d7e-9113059fe847/tasks/264d5439-4697-497b-820c-e4539cb5d409, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/f91eec3e-caca-4564-8d7e-9113059fe847/tasks/11aae9dc-66b9-4397-96c3-4b939ccb6697, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/f91eec3e-caca-4564-8d7e-9113059fe847/tasks/4980382c-62f0-4b59-a554-c70c9dbcd6a8, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/f91eec3e-caca-4564-8d7e-9113059fe847/tasks/2e4c028b-361b-4a49-bcb9-85c354c64b52, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/f91eec3e-caca-4564-8d7e-9113059fe847, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/f91eec3e-caca-4564-8d7e-9113059fe847/tasks/410210c4-4a13-48c0-a12a-d153febb985d, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/f91eec3e-caca-4564-8d7e-9113059fe847/tasks/264d5439-4697-497b-820c-e4539cb5d409, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/f91eec3e-caca-4564-8d7e-9113059fe847/tasks/11aae9dc-66b9-4397-96c3-4b939ccb6697, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/f91eec3e-caca-4564-8d7e-9113059fe847/tasks/4980382c-62f0-4b59-a554-c70c9dbcd6a8, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/f91eec3e-caca-4564-8d7e-9113059fe847/tasks/2e4c028b-361b-4a49-bcb9-85c354c64b52, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/5ec0f9aa-1dd7-47ce-a6d0-6e135f0af6fe, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /login, \n    params: {}, \n    body: {\"login\":\"admin\",\"password\":\"admin\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users/05942e65-abf5-4799-a3e3-94788c930af1, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users/05942e65-abf5-4799-a3e3-94788c930af1, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users/3a17e1b5-b606-4d94-9459-7d5b60292619, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users/8fcc5a31-839a-4034-a468-912402640803, \n    params: {}, \n    body: {\"name\":\"Autotest updated TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\",\"id\":\"8fcc5a31-839a-4034-a468-912402640803\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users/8fcc5a31-839a-4034-a468-912402640803, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users/8fcc5a31-839a-4034-a468-912402640803, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users/50d1bd88-fc62-4e1e-8111-7270e9d18a37, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/0b3ab8c5-9f32-4d76-ac32-b8ccd68439fa/tasks, \n    params: {}, \n    body: {\"title\":\"Task #1\",\"order\":1,\"description\":\"Lorem ipsum\",\"userId\":\"08346bd2-dfcc-412f-8f51-1933a17de2ab\",\"boardId\":\"0b3ab8c5-9f32-4d76-ac32-b8ccd68439fa\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/0b3ab8c5-9f32-4d76-ac32-b8ccd68439fa/tasks, \n    params: {}, \n    body: {\"title\":\"Task #2\",\"order\":2,\"description\":\"Lorem ipsum\",\"userId\":\"08346bd2-dfcc-412f-8f51-1933a17de2ab\",\"boardId\":\"0b3ab8c5-9f32-4d76-ac32-b8ccd68439fa\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users/08346bd2-dfcc-412f-8f51-1933a17de2ab, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/0b3ab8c5-9f32-4d76-ac32-b8ccd68439fa/tasks/8bd40a43-0082-44ef-ac1f-017756b14398, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/0b3ab8c5-9f32-4d76-ac32-b8ccd68439fa/tasks/b6f2f75d-e383-4b3d-9967-b16931a84ec7, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/0b3ab8c5-9f32-4d76-ac32-b8ccd68439fa/tasks/8bd40a43-0082-44ef-ac1f-017756b14398, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/0b3ab8c5-9f32-4d76-ac32-b8ccd68439fa/tasks/b6f2f75d-e383-4b3d-9967-b16931a84ec7, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/0b3ab8c5-9f32-4d76-ac32-b8ccd68439fa, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /login, \n    params: {}, \n    body: {\"login\":\"admin\",\"password\":\"admin\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/9f592e00-6c68-441d-8693-91e0d6e17a93/tasks, \n    params: {}, \n    body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/9f592e00-6c68-441d-8693-91e0d6e17a93/tasks, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/9f592e00-6c68-441d-8693-91e0d6e17a93/tasks, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/9f592e00-6c68-441d-8693-91e0d6e17a93/tasks/27714368-7374-4406-afb9-0910c236e0b8, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/9f592e00-6c68-441d-8693-91e0d6e17a93/tasks, \n    params: {}, \n    body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/9f592e00-6c68-441d-8693-91e0d6e17a93/tasks/a9f5a853-e921-48f6-8d8d-b1f46059a19d, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/9f592e00-6c68-441d-8693-91e0d6e17a93/tasks, \n    params: {}, \n    body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/9f592e00-6c68-441d-8693-91e0d6e17a93/tasks/9f195ad3-9762-4b8e-936c-7ad39b93f7a0, \n    params: {}, \n    body: {\"id\":\"9f195ad3-9762-4b8e-936c-7ad39b93f7a0\",\"title\":\"Autotest updated task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":\"9f592e00-6c68-441d-8693-91e0d6e17a93\",\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/9f592e00-6c68-441d-8693-91e0d6e17a93/tasks/9f195ad3-9762-4b8e-936c-7ad39b93f7a0, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/9f592e00-6c68-441d-8693-91e0d6e17a93/tasks/27714368-7374-4406-afb9-0910c236e0b8, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/9f592e00-6c68-441d-8693-91e0d6e17a93/tasks/27714368-7374-4406-afb9-0910c236e0b8, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/9f592e00-6c68-441d-8693-91e0d6e17a93/tasks/27714368-7374-4406-afb9-0910c236e0b8, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/9f592e00-6c68-441d-8693-91e0d6e17a93, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/12345/tasks, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/12345/tasks/12345, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/12345/tasks, \n    params: {}, \n    body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/12345/tasks/12345, \n    params: {}, \n    body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/12345/tasks/12345, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /users/123, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /users/12345, \n    params: {}, \n    body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /users/12345, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/12345, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/12345, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/12345, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}

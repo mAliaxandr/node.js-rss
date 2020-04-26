@@ -11,11 +11,6 @@ const users = [
     login: 'admin',
     password: loginService.getHashPassword('admin'),
     _id: 'Admin007-f20f-4b9d-998a-ooooAdmin007'
-  }),
-  new User({
-    name: 'user2',
-    login: 'login2',
-    password: loginService.getHashPassword('pass2')
   })
 ];
 
