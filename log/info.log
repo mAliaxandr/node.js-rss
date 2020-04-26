@@ -301,3 +301,110 @@
 {"message":"   500, Unhandled Rejection at Promise: User validation failed: password: Cast to String failed for value \"Promise { <pending> }\" at path \"password\"","level":"\u001b[31merror\u001b[39m","service":"user-service"}
 {"message":"   500, Unhandled Rejection at Promise: User validation failed: password: Cast to String failed for value \"Promise { <pending> }\" at path \"password\"","level":"\u001b[31merror\u001b[39m","service":"user-service"}
 {"message":"   500, Unhandled Rejection at Promise: Cannot create collection test.users - database is in the process of being dropped.","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Cannot create collection test.users - database is in the process of being dropped.","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Cannot create collection test.users - database is in the process of being dropped.","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Cannot create collection test.users - database is in the process of being dropped.","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /login, \n    params: {}, \n    body: {\"name\":\"sas 4---\",\"login\":\"ssss\",\"password\":\"1111\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {\"name\":\"sas 4---\",\"login\":\"ssss\",\"password\":\"1111\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {\"name\":\"sas 4---\",\"login\":\"ssss\",\"password\":\"1111\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /login, \n    params: {}, \n    body: {\"name\":\"sas 4---\",\"login\":\"ssss\",\"password\":\"1111\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {\"name\":\"sas 4---\",\"login\":\"ssss\",\"password\":\"1111\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /login, \n    params: {}, \n    body: {\"name\":\"sas 4---\",\"login\":\"ssss\",\"password\":\"1111\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Cannot create collection test.users - database is in the process of being dropped.","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {\"name\":\"sas 4---\",\"login\":\"ssss\",\"password\":\"1111\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /login, \n    params: {}, \n    body: {\"name\":\"sas 4---\",\"login\":\"ssss\",\"password\":\"1111\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {\"name\":\"sas 4---\",\"login\":\"ssss\",\"password\":\"1111\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /login, \n    params: {}, \n    body: {\"name\":\"sas 4---\",\"login\":\"ssss\",\"password\":\"1111\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {\"name\":\"sas 4---\",\"login\":\"ssss\",\"password\":\"1111\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /login, \n    params: {}, \n    body: {\"name\":\"sas 4---\",\"login\":\"ssss\",\"password\":\"1111\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   500, Unhandled Rejection at Promise: Cannot create collection test.users - database is in the process of being dropped.","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /login, \n    params: {}, \n    body: {\"login\":\"admin\",\"password\":\"admin\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users/undefined, \n    params: {}, \n    body: {\"name\":\"Autotest updated TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users/undefined, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   404, User not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users/undefined, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/7d6b6feb-5ea4-418e-b744-8bd3f188f72e/tasks, \n    params: {}, \n    body: {\"title\":\"Task #1\",\"order\":1,\"description\":\"Lorem ipsum\",\"boardId\":\"7d6b6feb-5ea4-418e-b744-8bd3f188f72e\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/7d6b6feb-5ea4-418e-b744-8bd3f188f72e/tasks, \n    params: {}, \n    body: {\"title\":\"Task #2\",\"order\":2,\"description\":\"Lorem ipsum\",\"boardId\":\"7d6b6feb-5ea4-418e-b744-8bd3f188f72e\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users/undefined, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/7d6b6feb-5ea4-418e-b744-8bd3f188f72e/tasks/c56f2fc3-b69e-4546-a4e7-5f67b20810a0, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users/123, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   404, User not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users/12345, \n    params: {}, \n    body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users/12345, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/12345, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   404, Board not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/12345, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/12345, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/12345/tasks, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/12345/tasks/12345, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/12345/tasks, \n    params: {}, \n    body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/12345/tasks/12345, \n    params: {}, \n    body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/12345/tasks/12345, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /login, \n    params: {}, \n    body: {\"login\":\"admin\",\"password\":\"admin\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/2783fef1-ab86-445d-b52d-19e922eb4fd3, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/094ab734-bb68-4e44-9b11-0b447851b6b7, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/501f0d2c-a0ed-4ba8-b22d-11cf329ff11f, \n    params: {}, \n    body: {\"id\":\"501f0d2c-a0ed-4ba8-b22d-11cf329ff11f\",\"title\":\"Autotest updated board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/501f0d2c-a0ed-4ba8-b22d-11cf329ff11f, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/501f0d2c-a0ed-4ba8-b22d-11cf329ff11f, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/3e3009c3-8cda-4226-b8fd-9d57f2212268, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/3e3009c3-8cda-4226-b8fd-9d57f2212268, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   404, Board not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/ce3dd3fc-d6f3-4f52-a3f3-998f527dc95c/tasks, \n    params: {}, \n    body: {\"title\":\"Task #1\",\"order\":1,\"description\":\"Lorem ipsum\",\"boardId\":\"ce3dd3fc-d6f3-4f52-a3f3-998f527dc95c\",\"userId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/ce3dd3fc-d6f3-4f52-a3f3-998f527dc95c/tasks, \n    params: {}, \n    body: {\"title\":\"Task #2\",\"order\":2,\"description\":\"Lorem ipsum\",\"boardId\":\"ce3dd3fc-d6f3-4f52-a3f3-998f527dc95c\",\"userId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/ce3dd3fc-d6f3-4f52-a3f3-998f527dc95c/tasks, \n    params: {}, \n    body: {\"title\":\"Task #3\",\"order\":3,\"description\":\"Lorem ipsum\",\"boardId\":\"ce3dd3fc-d6f3-4f52-a3f3-998f527dc95c\",\"userId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/ce3dd3fc-d6f3-4f52-a3f3-998f527dc95c/tasks, \n    params: {}, \n    body: {\"title\":\"Task #4\",\"order\":4,\"description\":\"Lorem ipsum\",\"boardId\":\"ce3dd3fc-d6f3-4f52-a3f3-998f527dc95c\",\"userId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/ce3dd3fc-d6f3-4f52-a3f3-998f527dc95c/tasks, \n    params: {}, \n    body: {\"title\":\"Task #5\",\"order\":5,\"description\":\"Lorem ipsum\",\"boardId\":\"ce3dd3fc-d6f3-4f52-a3f3-998f527dc95c\",\"userId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/ce3dd3fc-d6f3-4f52-a3f3-998f527dc95c/tasks/b6fe9e55-b1ed-4a83-85be-9d79d2c09afa, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/ce3dd3fc-d6f3-4f52-a3f3-998f527dc95c/tasks/26d1b4c7-72af-47dd-9fdf-7251d53c2212, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/ce3dd3fc-d6f3-4f52-a3f3-998f527dc95c/tasks/2252e383-b05d-4e05-936a-316db07b2d32, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/ce3dd3fc-d6f3-4f52-a3f3-998f527dc95c/tasks/2a74487e-7edb-478e-9b2a-d9e5efb587aa, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/ce3dd3fc-d6f3-4f52-a3f3-998f527dc95c/tasks/b759b7e3-d93d-4c31-b35d-97bcbb6edf04, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/ce3dd3fc-d6f3-4f52-a3f3-998f527dc95c, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/ce3dd3fc-d6f3-4f52-a3f3-998f527dc95c/tasks/b6fe9e55-b1ed-4a83-85be-9d79d2c09afa, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/ce3dd3fc-d6f3-4f52-a3f3-998f527dc95c/tasks/26d1b4c7-72af-47dd-9fdf-7251d53c2212, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/ce3dd3fc-d6f3-4f52-a3f3-998f527dc95c/tasks/2252e383-b05d-4e05-936a-316db07b2d32, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/ce3dd3fc-d6f3-4f52-a3f3-998f527dc95c/tasks/2a74487e-7edb-478e-9b2a-d9e5efb587aa, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/ce3dd3fc-d6f3-4f52-a3f3-998f527dc95c/tasks/b759b7e3-d93d-4c31-b35d-97bcbb6edf04, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/34ca621d-c848-4ccd-b15d-326bf67836f8, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /login, \n    params: {}, \n    body: {\"login\":\"admin\",\"password\":\"admin\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/46812d78-6909-4f09-9987-515c8d840212/tasks, \n    params: {}, \n    body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/46812d78-6909-4f09-9987-515c8d840212/tasks, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/46812d78-6909-4f09-9987-515c8d840212/tasks, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/46812d78-6909-4f09-9987-515c8d840212/tasks/b9f79be7-27d1-4aca-8489-ea61ea8c5c66, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/46812d78-6909-4f09-9987-515c8d840212/tasks, \n    params: {}, \n    body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/46812d78-6909-4f09-9987-515c8d840212/tasks/96b40888-2a63-4ef0-b63e-5c40120cb4d3, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/46812d78-6909-4f09-9987-515c8d840212/tasks, \n    params: {}, \n    body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/46812d78-6909-4f09-9987-515c8d840212/tasks/bc70bce5-7380-4649-9205-fc917818d809, \n    params: {}, \n    body: {\"id\":\"bc70bce5-7380-4649-9205-fc917818d809\",\"title\":\"Autotest updated task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":\"46812d78-6909-4f09-9987-515c8d840212\",\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/46812d78-6909-4f09-9987-515c8d840212/tasks/bc70bce5-7380-4649-9205-fc917818d809, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/46812d78-6909-4f09-9987-515c8d840212/tasks/b9f79be7-27d1-4aca-8489-ea61ea8c5c66, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/46812d78-6909-4f09-9987-515c8d840212/tasks/b9f79be7-27d1-4aca-8489-ea61ea8c5c66, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/46812d78-6909-4f09-9987-515c8d840212/tasks/b9f79be7-27d1-4aca-8489-ea61ea8c5c66, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/46812d78-6909-4f09-9987-515c8d840212, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {\"name\":\"sas 4---\",\"login\":\"ssss\",\"password\":\"1111\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /login, \n    params: {}, \n    body: {\"name\":\"sas 4---\",\"login\":\"ssss\",\"password\":\"1111\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
