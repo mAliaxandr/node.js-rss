@@ -1377,3 +1377,110 @@
 {"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
 {"message":"    url: /boards/12345, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
 {"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /login, \n    params: {}, \n    body: {\"login\":\"admin\",\"password\":\"admin\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/1889469e-fd1f-495a-aadf-85ce73f668a8, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/0f5d3d32-3f7c-47a6-9517-f26a936dd270, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/511bdbd0-eecc-4bd2-aafb-e0bea618d62a, \n    params: {}, \n    body: {\"id\":\"511bdbd0-eecc-4bd2-aafb-e0bea618d62a\",\"title\":\"Autotest updated board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/511bdbd0-eecc-4bd2-aafb-e0bea618d62a, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/511bdbd0-eecc-4bd2-aafb-e0bea618d62a, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/d6a79c77-dfe8-42ba-82a6-a3f203b84548, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/d6a79c77-dfe8-42ba-82a6-a3f203b84548, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   404, Board not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/2b73cfa5-0150-4462-9912-10f5ca03a27c/tasks, \n    params: {}, \n    body: {\"title\":\"Task #1\",\"order\":1,\"description\":\"Lorem ipsum\",\"boardId\":\"2b73cfa5-0150-4462-9912-10f5ca03a27c\",\"userId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/2b73cfa5-0150-4462-9912-10f5ca03a27c/tasks, \n    params: {}, \n    body: {\"title\":\"Task #2\",\"order\":2,\"description\":\"Lorem ipsum\",\"boardId\":\"2b73cfa5-0150-4462-9912-10f5ca03a27c\",\"userId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/2b73cfa5-0150-4462-9912-10f5ca03a27c/tasks, \n    params: {}, \n    body: {\"title\":\"Task #3\",\"order\":3,\"description\":\"Lorem ipsum\",\"boardId\":\"2b73cfa5-0150-4462-9912-10f5ca03a27c\",\"userId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/2b73cfa5-0150-4462-9912-10f5ca03a27c/tasks, \n    params: {}, \n    body: {\"title\":\"Task #4\",\"order\":4,\"description\":\"Lorem ipsum\",\"boardId\":\"2b73cfa5-0150-4462-9912-10f5ca03a27c\",\"userId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/2b73cfa5-0150-4462-9912-10f5ca03a27c/tasks, \n    params: {}, \n    body: {\"title\":\"Task #5\",\"order\":5,\"description\":\"Lorem ipsum\",\"boardId\":\"2b73cfa5-0150-4462-9912-10f5ca03a27c\",\"userId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/2b73cfa5-0150-4462-9912-10f5ca03a27c/tasks/12107b7b-d09c-469f-af6a-2597ff044408, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/2b73cfa5-0150-4462-9912-10f5ca03a27c/tasks/d560f81a-9959-438b-8944-d8de31e0abb7, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/2b73cfa5-0150-4462-9912-10f5ca03a27c/tasks/9625b607-d101-4faa-80cb-6b763c3e446f, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/2b73cfa5-0150-4462-9912-10f5ca03a27c/tasks/47c0ecd7-3301-4965-91e2-8bb8896d20a9, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/2b73cfa5-0150-4462-9912-10f5ca03a27c/tasks/73543a6f-9c53-4f63-9c54-6d6ab65c5fa3, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/2b73cfa5-0150-4462-9912-10f5ca03a27c, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/2b73cfa5-0150-4462-9912-10f5ca03a27c/tasks/12107b7b-d09c-469f-af6a-2597ff044408, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/2b73cfa5-0150-4462-9912-10f5ca03a27c/tasks/d560f81a-9959-438b-8944-d8de31e0abb7, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/2b73cfa5-0150-4462-9912-10f5ca03a27c/tasks/9625b607-d101-4faa-80cb-6b763c3e446f, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/2b73cfa5-0150-4462-9912-10f5ca03a27c/tasks/47c0ecd7-3301-4965-91e2-8bb8896d20a9, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/2b73cfa5-0150-4462-9912-10f5ca03a27c/tasks/73543a6f-9c53-4f63-9c54-6d6ab65c5fa3, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/fcde07aa-949b-4c0c-abdb-7c115b074f98, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /login, \n    params: {}, \n    body: {\"login\":\"admin\",\"password\":\"admin\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users/e0d279de-7fab-4aa4-8541-ac585244deeb, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users/e0d279de-7fab-4aa4-8541-ac585244deeb, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users/2c49542b-e35c-4528-b010-b76c86e5106d, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users/b5f295ac-ccac-4571-af93-3999d88b86dd, \n    params: {}, \n    body: {\"name\":\"Autotest updated TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\",\"id\":\"b5f295ac-ccac-4571-af93-3999d88b86dd\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users/b5f295ac-ccac-4571-af93-3999d88b86dd, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users/b5f295ac-ccac-4571-af93-3999d88b86dd, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users/1a142425-2d53-47a9-a77b-a20b9691efe0, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/237b8bac-566d-4c6d-9bd3-1127e6b10180/tasks, \n    params: {}, \n    body: {\"title\":\"Task #1\",\"order\":1,\"description\":\"Lorem ipsum\",\"userId\":\"9bd1756b-7763-4a46-ae77-b5b41bfe885f\",\"boardId\":\"237b8bac-566d-4c6d-9bd3-1127e6b10180\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/237b8bac-566d-4c6d-9bd3-1127e6b10180/tasks, \n    params: {}, \n    body: {\"title\":\"Task #2\",\"order\":2,\"description\":\"Lorem ipsum\",\"userId\":\"9bd1756b-7763-4a46-ae77-b5b41bfe885f\",\"boardId\":\"237b8bac-566d-4c6d-9bd3-1127e6b10180\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /users/9bd1756b-7763-4a46-ae77-b5b41bfe885f, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/237b8bac-566d-4c6d-9bd3-1127e6b10180/tasks/8fe213b1-b42c-4c91-8891-325ab17646cf, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/237b8bac-566d-4c6d-9bd3-1127e6b10180/tasks/917a785f-0778-4cba-b7ee-5cc70753a0e5, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/237b8bac-566d-4c6d-9bd3-1127e6b10180/tasks/8fe213b1-b42c-4c91-8891-325ab17646cf, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/237b8bac-566d-4c6d-9bd3-1127e6b10180/tasks/917a785f-0778-4cba-b7ee-5cc70753a0e5, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/237b8bac-566d-4c6d-9bd3-1127e6b10180, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /login, \n    params: {}, \n    body: {\"login\":\"admin\",\"password\":\"admin\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/7c90211c-8037-453a-b282-7d6af3f6f75e/tasks, \n    params: {}, \n    body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/7c90211c-8037-453a-b282-7d6af3f6f75e/tasks, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/7c90211c-8037-453a-b282-7d6af3f6f75e/tasks, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/7c90211c-8037-453a-b282-7d6af3f6f75e/tasks/a08a3738-7ea5-4194-adcd-ee556d974ed2, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/7c90211c-8037-453a-b282-7d6af3f6f75e/tasks, \n    params: {}, \n    body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/7c90211c-8037-453a-b282-7d6af3f6f75e/tasks/07417864-e68f-4f39-8474-33f9a4700709, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/7c90211c-8037-453a-b282-7d6af3f6f75e/tasks, \n    params: {}, \n    body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/7c90211c-8037-453a-b282-7d6af3f6f75e/tasks/899433fa-037e-40bf-87e3-a7d256e2e8cf, \n    params: {}, \n    body: {\"id\":\"899433fa-037e-40bf-87e3-a7d256e2e8cf\",\"title\":\"Autotest updated task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":\"7c90211c-8037-453a-b282-7d6af3f6f75e\",\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/7c90211c-8037-453a-b282-7d6af3f6f75e/tasks/899433fa-037e-40bf-87e3-a7d256e2e8cf, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/7c90211c-8037-453a-b282-7d6af3f6f75e/tasks/a08a3738-7ea5-4194-adcd-ee556d974ed2, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/7c90211c-8037-453a-b282-7d6af3f6f75e/tasks/a08a3738-7ea5-4194-adcd-ee556d974ed2, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/7c90211c-8037-453a-b282-7d6af3f6f75e/tasks/a08a3738-7ea5-4194-adcd-ee556d974ed2, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   404, Task not found","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/7c90211c-8037-453a-b282-7d6af3f6f75e, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/12345/tasks, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/12345/tasks/12345, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/12345/tasks, \n    params: {}, \n    body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/12345/tasks/12345, \n    params: {}, \n    body: {\"title\":\"Autotest task\",\"order\":0,\"description\":\"Lorem ipsum\",\"userId\":null,\"boardId\":null,\"columnId\":null}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/12345/tasks/12345, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/12345, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/12345, \n    params: {}, \n    body: {\"title\":\"Autotest board\",\"columns\":[{\"title\":\"Backlog\",\"order\":1},{\"title\":\"Sprint\",\"order\":2}]}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /boards/12345, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /users/123, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /users, \n    params: {}, \n    body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /users/12345, \n    params: {}, \n    body: {\"name\":\"TEST_USER\",\"login\":\"test_user\",\"password\":\"T35t_P@55w0rd\"}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}
+{"message":"    url: /users/12345, \n    params: {}, \n    body: {}","level":"\u001b[32minfo\u001b[39m","service":"user-service"}
+{"message":"   401, Unauthorized","level":"\u001b[31merror\u001b[39m","service":"user-service"}

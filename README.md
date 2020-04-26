@@ -1,13 +1,11 @@
-# Guide for task4:
+# Guide for task5:
 
 1. Clone this repository
 2. Go to folder `node.js-rss`
 3. To install all dependencies use [`npm install`]
 4. For run application use [`npm run start`]
-5. for run test use [`npm run test`]
+5. for run test use [`npm run test:auth`]
 
-# Connect to MongoDB in :  
-[`./src/db/db.client.js`]
 
 # My Telegram: 
 [`@mAliaxandr`]
